@@ -1,0 +1,41 @@
+/* ==========================================================================
+   gd25 skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #F5F5F5 !default;          
+$text-color: #2C2C2C !default;              
+$muted-text-color: #666666 !default;        
+
+$primary-color: #843f30 !default;           
+$secondary-color: #3D6BA3 !default;          
+$border-color: #dab3aa !default;         
+$secondary-background-color: #a6e0ef !default;  // for the tables in _tables.scss
+
+$footer-background-color: $primary-color !default;
+$link-color: #3D6BA3 !default;               
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: $secondary-color !default;
+
+.page__footer {
+  color: #fff !important;
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.nav__title {
+  color: #ffffff !important; 
+}
+
+
+// .sponsers-text {
+//     color: #843f30 !important;
+    
+    
+//     &:hover {
+//       color: mix(#000, #843f30, 25%) !important;
+//     }
+//   }
