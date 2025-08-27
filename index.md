@@ -6,7 +6,7 @@ classes: wide
     - landing
 #  - dark-theme
 header:
-    image: /assets/images/teaser/gd2026/homepage-teaser.png
+    image: /assets/images/teaser/gd2026/homepage-teaser.jpeg
     caption: "Image credit: [**Brock University**](https://commons.wikimedia.org/wiki/File:Campus_bird%27s-eye_view,_Brock_University_%283920733004%29.jpg)"
 ---
 
