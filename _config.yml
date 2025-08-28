@@ -13,20 +13,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "gd25" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "gd26" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GD 2025"
+title                    : "GD 2026"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
 description              : ""
 url                      : "http://graphdrawing.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "graphdrawing/gd2025"
+repository               : "graphdrawing/gd2026"
 teaser                   : # "/assets/images/background.png"
-logo                     : "/assets/images/logo/gdlogo-2025-transparent.png"
+logo                     : "/assets/images/logo/gdlogo-2026-transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -103,18 +103,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "GD 2025"
-  avatar           : "/assets/images/logo/gdlogo-2025-transparent.png"
-  bio              : "The 33rd International Symposium on Graph Drawing and Network Visualization will be held in Norrköping, Sweden from September 24-26, 2025. A pre-conference PhD school will take place on September 22-23, 2025."
-  location         : "Norrköping, Sweden"
+  name             : "GD 2026"
+  avatar           : "/assets/images/logo/gdlogo-2026-transparent.png"
+  bio              : "The 34th International Symposium on Graph Drawing and Network Visualization will be held in Ontario, Canada from August 19-21, 2026. A pre-conference PhD school will take place on August 17-18, 2026."
+  location         : "Ontario, Canada"
 #  email            : ""
   links:
     - label: "Contact Organizers"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gd2025@itn.liu.se"
+      url: "mailto:TBA"
     - label: "Contact PC chairs"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gd2025@easychair.org"
+      url: "mailto:TBA"
     - label: "graphdrawing.org"
       icon: "fas fa-fw fa-link"
       url: "http://graphdrawing.org"
