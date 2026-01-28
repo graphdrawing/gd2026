@@ -1,11 +1,11 @@
 # main links
 main:
-   #- title: "Call for Papers"
-   #  url: /pages/cfp
+   - title: "Call for Papers"
+     url: /pages/cfp
    #- title: "Program"
    #  url: /pages/program
-   #- title: "Invited Speakers"
-   #  url: /pages/speaker
+   - title: "Invited Speakers"
+     url: /pages/speaker
    #- title: "Awards"
    # url: /pages/awards
    #- title: "PhD School"
