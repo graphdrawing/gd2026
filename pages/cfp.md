@@ -115,7 +115,7 @@ Papers should be submitted electronically via [Easychair](https://easychair.org/
 
 Authors of posters should prepare an abstract that must be submitted together with the poster itself. Each submission will thus consist of two pdf files (the abstract and the poster).
 
-Selected papers from Track 1 and Track 2 will be invited for submission to a special issue of the Journal of Graph Algorithms and Applications (JGAA). The authors of two selected papers in Track 2 will be invited to submit a substantially extended and enhanced version of their work to IEEE Transactions on Visualization and Computer Graphics (TVCG). A special TVCG papers session at the Graph Drawing conference will also feature regular TVCG papers. Further details can be found at [https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences)
+Selected papers from Track 1 and Track 2 will be invited for submission to a special issue of the **Journal of Graph Algorithms and Applications (JGAA)**. The authors of two selected papers in Track 2 will be invited to submit a substantially extended and enhanced version of their work to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. A special TVCG papers session at the Graph Drawing conference will also feature regular TVCG papers. Further details can be found at [https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences)
 
 ## Policies
 GD implements a number of policies.
