@@ -66,6 +66,7 @@ toc: true
 -   [Sara Di Bartolomeo](https://picorana.github.io/), University of Konstanz, Germany *(co-chair)*
 -   Henry Förster, John Cabot University, Italy
 -   Fabian Klute, UPC Barcelona, Spain  
+-   Soeren Terziadis, TU München, Germany
 -   [Jules Wulms](https://www.ac.tuwien.ac.at/people/jwulms/), TU Eindhoven, Netherlands *(co-chair)*
 
 <!--
