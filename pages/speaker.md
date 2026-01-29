@@ -3,8 +3,8 @@
 layout: single
 # title: "Invited Speakers"
 header:
-  image: /assets/images/teaser/gd2025/invited-speaker.png
-  caption: "Image credit: [**Visualization Center C**](https://visualiseringscenter.se/en/)"
+    image: /assets/images/teaser/gd2026/homepage-teaser.png
+    caption: "Image credit: [**Organizer**](https://brocku.ca/)"
 # last_modified_at: 2025-11-26
 toc: true
 ---
