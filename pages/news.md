@@ -42,4 +42,4 @@ We are thrilled to welcome two exceptional scholars who will share their invalua
 
 <!--Please check out this [speakers page](../speaker/) for more information. -->
 
-[26.01.2026] The webpage has been updated with [Call for Papers](../cfp/) and [Committees](../committee/). <!-->, and [Travel & Accommodation](../travel_accommodation/). -->
+[26.01.2026] The webpage has been updated with [Call for Papers](../cfp/) and [Committees](../committee/). <!--, and [Travel & Accommodation](../travel_accommodation/). -->
