@@ -24,5 +24,16 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 
 ## Important Dates
 
-TBA
+
+| Events                            | Dates |
+| --------------------------------- | ----- |
+| Abstract submission deadline      | Wed May 6, 2026 (AoE)<!-- ~~June 3, 2025~~ -->   |
+| Paper (long and short) Deadline         | Wed May 13, 2026 (AoE)<!-- ~~June 3, 2025~~ -->  |
+| Paper (long and short) Notification  | Wed June 24, 2026 (AoE) <!-- ~~June 3, 2025~~ --> |
+| Poster Deadline:       | 	Wed July 8, 2026 (AoE)<!-- ~~June 3, 2025~~ --> |
+| Poster Notification: | Wed July 22, 2026 (AoE)<!-- ~~June 3, 2025~~ -->  |
+| Camera-ready Version (papers and posters):          | Wed July 29, 2026 (AoE)<!-- ~~June 3, 2025~~ -->   |
+| Contest Deadline:                         | Wed August 5, 2026 (AoE)<!-- ~~June 3, 2025~~ -->   |
+| PhD School:                         | Mon August 17 – Tue August 18, 2026<!-- ~~June 3, 2025~~ -->   |
+| Symposium:                         | Wed August 19 – Fri August 21, 2026<!-- ~~June 3, 2025~~ -->   |
  
