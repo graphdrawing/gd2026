@@ -37,3 +37,6 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 | PhD School:                         | Mon August 17 – Tue August 18, 2026<!-- ~~June 3, 2025~~ -->   |
 | Symposium:                         | Wed August 19 – Fri August 21, 2026<!-- ~~June 3, 2025~~ -->   |
  
+## Conferences Nearby in Time and Location
+
+The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://sites.google.com/view/cccg-2026/home)) will be held at Lakehead University’s Orillia Campus in Orillia, Ontario, from August 12 to 14, 2026.
