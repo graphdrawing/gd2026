@@ -115,7 +115,7 @@ Papers should be submitted electronically via [Easychair](https://easychair.org/
 
 Authors of posters should prepare an abstract that must be submitted together with the poster itself. Each submission will thus consist of two pdf files (the abstract and the poster).
 
-Selected papers from Track 1 and Track 2 will be invited for submission to a special issue of the Journal of Graph Algorithms and Applications (JGAA). The authors of two selected papers in Track 2 will be invited to submit a substantially extended and enhanced version of their work to IEEE Transactions on Visualization and Computer Graphics (TVCG). A special TVCG papers session at the Graph Drawing conference will also feature regular TVCG papers. Further details can be found at https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences
+Selected papers from Track 1 and Track 2 will be invited for submission to a special issue of the Journal of Graph Algorithms and Applications (JGAA). The authors of two selected papers in Track 2 will be invited to submit a substantially extended and enhanced version of their work to IEEE Transactions on Visualization and Computer Graphics (TVCG). A special TVCG papers session at the Graph Drawing conference will also feature regular TVCG papers. Further details can be found at [https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences)
 
 ## Policies
 GD implements a number of policies.
@@ -125,17 +125,17 @@ GD implements a number of policies.
 Authors are not prohibited from using generative AI (GAI), but are required to be transparent about its use and are responsible for complying with all relevant policies.
 PC members are prohibited from using GAI during the review process, because submitted manuscripts are confidential and may not be shared with AI platforms.
 
-The full AI policy can be found at http://graphdrawing.org/ai.html
+The full AI policy can be found at [http://graphdrawing.org/ai.html](http://graphdrawing.org/ai.html)
 
 **User Study Ethics policy**
 If a paper makes use of data from human subjects, the collection and use of such data should have been conducted carefully and should adhere to ethical standards for responsible research practice, as well as data protection regulations.
 
-The full ethics policy can be found at http://graphdrawing.org/userstudies.html
+The full ethics policy can be found at [http://graphdrawing.org/userstudies.html](http://graphdrawing.org/userstudies.html)
 
 **Code of conduct**
 GD is dedicated to providing an environment that is free from harassment, bullying, discrimination, and retaliation for all participants, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
 
-The full code of conduct can be found at http://graphdrawing.org/safetoc.html
+The full code of conduct can be found at [http://graphdrawing.org/safetoc.html](http://graphdrawing.org/safetoc.html)
 
 ## MISC TOPICS
 Lightweight Double-Blind Review Process
