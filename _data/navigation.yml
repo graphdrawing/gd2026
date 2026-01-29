@@ -2,8 +2,8 @@
 main:
    - title: "Call for Papers"
      url: /pages/cfp
-   - title: "Program"
-     url: /pages/program
+   #- title: "Program"
+   #  url: /pages/program
    - title: "Invited Speakers"
      url: /pages/speaker
    #- title: "Awards"
@@ -20,8 +20,8 @@ main:
    #  url: /pages/venue
    #- title: "Accepted Papers"
    #  url: /pages/accepted_papers
-   #- title: "Committees"
-   #  url: /pages/committee
+   - title: "Committees"
+     url: /pages/committee
    #- title: "News"
    #  url: /pages/news
    #- title: "Code of Conduct"
