@@ -15,7 +15,7 @@ toc: true
 
 - Therese Biedl, University of Waterloo, Canada
 - [Debajyoti Mondal](https://www.cs.usask.ca/faculty/dmondal/), University of Saskatchewan, Canada *(general co-chair)*
-- [Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/),  Brock University, Canada,   *(general co-chair)* 
+- [Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/),  Brock University, Canada   *(general co-chair)* 
 
 
 ## Program Committee
