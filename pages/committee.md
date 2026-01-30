@@ -63,7 +63,7 @@ toc: true
  
 ## Contest Committee
 
--   [Sara Di Bartolomeo](https://picorana.github.io/), University of Konstanz, Germany *(co-chair)*
+-   [Sara Di Bartolomeo](https://picorana.github.io/), TU Wien, Austria *(co-chair)*
 -   Henry Förster, John Cabot University, Italy
 -   Fabian Klute, UPC Barcelona, Spain  
 -   Soeren Terziadis, TU München, Germany
