@@ -58,7 +58,7 @@ toc: true
 -   Jules Wulms,			TU Eindhoven				 
 -   Michael Wybrow,		Monash University				 
 -   Stef van den Elzen,		TU Eindhoven 
--   Tatiana von, LandesbergerUniversität zu Köln	 
+-   Tatiana von Landesberger, Universität zu Köln	 
 
  
 ## Contest Committee
