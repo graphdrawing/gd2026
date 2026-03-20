@@ -40,3 +40,52 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
 ## Conferences Nearby in Time and Location
 
 The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://sites.google.com/view/cccg-2026/home)) will be held at Lakehead University’s Orillia Campus in Orillia, Ontario, from August 12 to 14, 2026.
+
+## Sponsors
+
+
+### Gold Sponsors
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"></td>
+    <td style="border: none;"></td>
+    <td style="border: none;"><a href="https://www.tomsawyer.com" target="_blank"><img src="assets/images/sponsor/Tom_Sawyer_Software.png" width="320" /></a><br />
+    <a href="https://www.tomsawyer.com" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">Tom Sawyer Software</strong></a>
+    </td>
+  </tr>
+</table>
+
+### Silver Sponsor
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="assets/images/sponsor/yWorks.png" width="290" /></a><br />
+    <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"  style="padding-top: 10px; display: inline-block;"> <strong class="sponsers-text" style="font-size: 1.2em;">yWorks</strong></a> </td>
+  </tr>
+</table>
+
+### Contributors
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://visualiseringscenter.se/" target="_blank"><img src="assets/images/sponsor/brock.png" width="200" /></a><br />
+      <a href="https://brocku.ca/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.0em;">Brock University</strong></a>
+    </td> 
+  </tr>
+</table>
+<!--
+ 
+### Platinum Sponsor
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="assets/images/sponsor/carl-tryggers-stiftelse.png" width="420" /></a><br />
+      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">Carl Tryggers Foundation for Scientific Research</strong></a>
+    </td>
+  </tr>
+</table>
+>
+--!>
