@@ -75,17 +75,4 @@ The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://site
     </td> 
   </tr>
 </table>
-<!--
  
-### Platinum Sponsor
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank"><img src="assets/images/sponsor/carl-tryggers-stiftelse.png" width="420" /></a><br />
-      <a href="https://www.carltryggersstiftelse.se/this-is-the-carl-trygger-foundation/" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">Carl Tryggers Foundation for Scientific Research</strong></a>
-    </td>
-  </tr>
-</table>
->
---!>
