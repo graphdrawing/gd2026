@@ -247,10 +247,6 @@
      \vskip\topmattervskip\baselineskip\noindent
      \USEDeclHeading\@USEDecl
    \fi
-   \ifx\@funding\@empty\else
-     \vskip\topmattervskip\baselineskip\noindent
-     \fundingHeading\ifx\authoranonymous\relax\textcolor{red}{Anonymous funding}\else\@funding\fi
-   \fi
 	\protected@write\@auxout{}{\string\gdef\string\@pageNumberEndAbstract{\thepage}}%
 	}% end abstract
 \let\gdabstract=\abstract
