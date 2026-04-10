@@ -10,7 +10,7 @@ header:
     caption: "Image credit: [**Brock University**](https://commons.wikimedia.org/wiki/File:Campus_bird%27s-eye_view,_Brock_University_%283920733004%29.jpg)"
 ---
 
-## August 17-21, 2026 · St. Catharines, Ontario, Canada
+## August 17-21, 2026 · Brock University, St. Catharines, Ontario, Canada
 
  
 ## About Graph Drawing 2026
