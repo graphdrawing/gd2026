@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The 34th International Symposium on Graph Drawing and Network Visualization"
-subtitle: "August 17-21, 2026 · St. Catharines, Ontario, Canada"
+subtitle: "August 17-21, 2026 · Brock University, St. Catharines, Ontario, Canada"
 classes: wide
     - landing
 #  - dark-theme
