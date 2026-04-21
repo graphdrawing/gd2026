@@ -148,7 +148,7 @@ toc: true
 
 <div class="header" id="Reyan-Ahmed">
 <figure>
- <img src="../../assets/images/lecturer/ar.jpg">
+ <img src="../../assets/images/lecturer/ra.jpg">
 </figure>
 <h3><a href="https://abureyanahmed.github.io/profile/">Prof. Dr. Reyan Ahmed</a></h3>
 <p><strong><a href="https://www.arizona.edu/">University of Arizona</a>, United States</strong></p>
