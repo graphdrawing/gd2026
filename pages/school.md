@@ -148,7 +148,7 @@ toc: true
 
 <div class="header" id="Reyan-Ahmed">
 <figure>
- <img src="../../assets/images/lecturer/mk.jpg">
+ <img src="../../assets/images/lecturer/ar.jpg">
 </figure>
 <h3><a href="https://abureyanahmed.github.io/profile/">Prof. Dr. Reyan Ahmed</a></h3>
 <p><strong><a href="https://www.arizona.edu/">University of Arizona</a>, United States</strong></p>
@@ -156,7 +156,7 @@ toc: true
 
 <div class="header" id="Will-Evans">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+  <img src="../../assets/images/lecturer/we.jpg">
 </figure>
 <h3><a href="https://www.cs.ubc.ca/~will/">Prof. Dr. Will Evans</a></h3>
 <p><strong><a href="https://www.ubc.ca/">University of British Columbia</a>, Canada</strong></p>
@@ -164,7 +164,7 @@ toc: true
 
 <div class="header" id="Myroslav-Kryven">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+  <img src="../../assets/images/lecturer/mk.jpg">
 </figure>
 <h3><a href="https://myroslavkryven.gitlab.io/website/">Prof. Dr. Myroslav Kryven</a></h3>
 <p><strong><a href="https://www.amherst.edu/">Amherst College</a>, United States</strong></p>
@@ -172,7 +172,7 @@ toc: true
 
 <div class="header" id="Md.-Saidur-Rahman">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+  <img src="../../assets/images/lecturer/sr.jpg">
 </figure>
 <h3><a href="https://saidurrahman.buet.ac.bd/">Prof. Dr. Md. Saidur Rahman</a></h3>
 <p><strong><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>, Bangladesh</strong></p>
@@ -181,7 +181,7 @@ toc: true
 
 <div class="header" id="Alessandra-Tappini">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+  <img src="../../assets/images/lecturer/at.jpg">
 </figure>
 <h3><a href="https://mozart.diei.unipg.it/tappini/">Prof. Dr. Alessandra Tappini</a></h3>
 <p><strong><a href="mozart.diei.unipg.it/tappini/">University of Perugia</a>, Italy</strong></p>
@@ -189,7 +189,7 @@ toc: true
 
 <div class="header" id="Carola-Wenk">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+  <img src="../../assets/images/lecturer/cw.jpg">
 </figure>
 <h3><a href="https://cs.tulane.edu/~carola/">Prof. Dr. Carola Wenk</a></h3>
 <p><strong><a href="https://tulane.edu/">Tulane University</a>, United States</strong></p>

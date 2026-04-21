@@ -61,7 +61,7 @@ toc: true
 
 <div class="header" id="Huamin-Qu">
 <figure >
-  <!--<img src="../../assets/images/speaker/Huamin_Qu.png">-->
+  <img src="../../assets/images/speaker/ec.jpg">
   <!-- <footer style="font-size: 12px"></footer> -->
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
@@ -85,7 +85,7 @@ He worked on different topics in parameterized algorithms and complexity, and gr
 
 <div class="header" id="Huamin-Qu">
 <figure >
-  <!--<img src="../../assets/images/speaker/Huamin_Qu.png">-->
+  <img src="../../assets/images/speaker/tm.jpg">
   <!-- <footer style="font-size: 12px"></footer> -->
   <!-- <figcaption>Caption goes here</figcaption> -->
 </figure>
