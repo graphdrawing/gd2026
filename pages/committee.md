@@ -14,9 +14,11 @@ toc: true
 ## Organizing Committee
 
 - Therese Biedl, University of Waterloo, Canada
+- Naser Ezzati-Jivan,  Brock University, Canada
+- Sheridan Houghten,  Brock University, Canada
 - [Debajyoti Mondal](https://www.cs.usask.ca/faculty/dmondal/), University of Saskatchewan, Canada *(general co-chair)*
 - [Rahnuma Islam Nishat](https://brocku.ca/mathematics-science/computer-science/faculty-staff/rahnuma-nishat/),  Brock University, Canada   *(general co-chair)* 
-
+- Ke Qiu,  Brock University, Canada
 
 ## Program Committee
 
