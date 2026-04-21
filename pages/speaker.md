@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-title: "Invited Speakers"
+# title: "Invited Speakers"
 header:
     image: /assets/images/teaser/gd2026/homepage-teaser.png
     caption: "Image credit: [**Organizer**](https://brocku.ca/)"
@@ -59,7 +59,7 @@ toc: true
 # Invited Speakers
 <hr>
 
-<div class="header" id="Huamin-Qu">
+<div class="header" id="erin-chambers">
 <figure >
   <img src="../../assets/images/speaker/ec.jpg">
   <!-- <footer style="font-size: 12px"></footer> -->
@@ -83,7 +83,7 @@ He worked on different topics in parameterized algorithms and complexity, and gr
 -->
 
 
-<div class="header" id="Huamin-Qu">
+<div class="header" id="tamara-munzner">
 <figure >
   <img src="../../assets/images/speaker/tm.jpg">
   <!-- <footer style="font-size: 12px"></footer> -->

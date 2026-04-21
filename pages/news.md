@@ -36,6 +36,8 @@ We are pleased to welcome **Dr. Sara Di Bartolomeo**, **Prof. Dr. Markus Chimani
 [22.05.2026] The LaTeX class file has been updated in the [Call for Papers](../cfp/). Please download the latest version [gd-lipics-v2.cls](../../assets/template/gd-lipics-v2.cls) for your submission.
 -->
 
+[21.04.2026] We are pleased to welcome **Prof. Dr. Reyan Ahmed**, **Prof. Dr. Will Evans**, **Prof. Dr. Myroslav Kryven**, **Prof. Dr. Md. Saidur Rahman**,  **Prof. Dr. Alessandra Tappini**, and **Prof. Dr. Carola Wenk** as our lecturers for the GD2026 PhD School.  
+
 [28.01.2026] Announcing the **Invited Speakers** for GD2026!
 
 We are thrilled to welcome two exceptional scholars who will share their invaluable insights and expertise at Graph Drawing 2026. Our distinguished speakers, **Prof. Dr. Erin Chambers** and **Prof. Dr. Tamara Munzner**, are renowned leaders in their respective fields and will undoubtedly provide fascinating perspectives on graph drawing, algorithms, and visualization.
