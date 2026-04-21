@@ -148,9 +148,9 @@ toc: true
 
 <div class="header" id="Reyan-Ahmed">
 <figure>
-  <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
+ <img src="../../assets/images/lecturer/mk.jpg">
 </figure>
-<h3><a href="https://abureyanahmed.github.io/profile/">Dr. Reyan Ahmed</a></h3>
+<h3><a href="https://abureyanahmed.github.io/profile/">Prof. Dr. Reyan Ahmed</a></h3>
 <p><strong><a href="https://www.arizona.edu/">University of Arizona</a>, United States</strong></p>
 </div>
 
@@ -158,7 +158,7 @@ toc: true
 <figure>
   <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
 </figure>
-<h3><a href="https://www.cs.ubc.ca/~will/">Dr. Will Evans</a></h3>
+<h3><a href="https://www.cs.ubc.ca/~will/">Prof. Dr. Will Evans</a></h3>
 <p><strong><a href="https://www.ubc.ca/">University of British Columbia</a>, Canada</strong></p>
 </div>
 
@@ -166,7 +166,7 @@ toc: true
 <figure>
   <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
 </figure>
-<h3><a href="https://myroslavkryven.gitlab.io/website/">Dr. Myroslav Kryven</a></h3>
+<h3><a href="https://myroslavkryven.gitlab.io/website/">Prof. Dr. Myroslav Kryven</a></h3>
 <p><strong><a href="https://www.amherst.edu/">Amherst College</a>, United States</strong></p>
 </div>
 
@@ -174,7 +174,7 @@ toc: true
 <figure>
   <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
 </figure>
-<h3><a href="https://saidurrahman.buet.ac.bd/">Dr. Md. Saidur Rahman</a></h3>
+<h3><a href="https://saidurrahman.buet.ac.bd/">Prof. Dr. Md. Saidur Rahman</a></h3>
 <p><strong><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>, Bangladesh</strong></p>
 </div>
  
@@ -183,7 +183,7 @@ toc: true
 <figure>
   <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
 </figure>
-<h3><a href="https://mozart.diei.unipg.it/tappini/">Dr. Alessandra Tappini</a></h3>
+<h3><a href="https://mozart.diei.unipg.it/tappini/">Prof. Dr. Alessandra Tappini</a></h3>
 <p><strong><a href="mozart.diei.unipg.it/tappini/">University of Perugia</a>, Italy</strong></p>
 </div>
 
@@ -191,7 +191,7 @@ toc: true
 <figure>
   <!-- <img src="../../assets/images/lecturer/mk.jpg">-->
 </figure>
-<h3><a href="https://cs.tulane.edu/~carola/">Dr. Carola Wenk</a></h3>
+<h3><a href="https://cs.tulane.edu/~carola/">Prof. Dr. Carola Wenk</a></h3>
 <p><strong><a href="https://tulane.edu/">Tulane University</a>, United States</strong></p>
 </div>
 
