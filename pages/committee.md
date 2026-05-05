@@ -48,7 +48,7 @@ toc: true
 -   Yoshio Okamoto,		University of Electro-Communications	 
 -   Daniel Pahr,			Universität Wien						 
 -   Irene Parada,			Universitat Politècnica de Catalunya		 
--   Daniel Perz,			University of Perugia				 
+-   Daniel Perz,		Charles University				 
 -   Ignaz Rutter,			Universität Passau				 
 -   Gerik Scheuermann,	University of Leipzig				 
 -   Tobias Schreck,		Graz University of Technology		 
