@@ -54,7 +54,7 @@ toc: true
 -   Tobias Schreck,		Graz University of Technology		 
 -   Darren Strash,		Hamilton College	 
 -   Alessandra Tappini, 	University of Perugia			 
--   Soeren Terziadis, 		TU München, Heilbrunn				 
+-   Soeren Terziadis, 		TU Munich				 
 -   Alexandra Weinberger, 	FernUniversität in Hagen			 
 -   Alexander Wolff,		Universität Würzburg				 
 -   Jules Wulms,			TU Eindhoven				 
@@ -68,7 +68,7 @@ toc: true
 -   [Sara Di Bartolomeo](https://picorana.github.io/), TU Wien, Austria *(co-chair)*
 -   Henry Förster, John Cabot University, Italy
 -   Fabian Klute, UPC Barcelona, Spain  
--   Soeren Terziadis, TU München, Germany
+-   Soeren Terziadis, TU Munich, Germany
 -   [Jules Wulms](https://www.ac.tuwien.ac.at/people/jwulms/), TU Eindhoven, Netherlands *(co-chair)*
 
 <!--
