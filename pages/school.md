@@ -191,6 +191,14 @@ toc: true
 </figure>
 <h3><a href="https://mozart.diei.unipg.it/tappini/">Prof. Dr. Alessandra Tappini</a></h3>
 <p><strong><a href="mozart.diei.unipg.it/tappini/">University of Perugia</a>, Italy</strong></p>
+<h3>Title: Hybrid Graph Visualizations: From Theory to Practice and Back</h3>
+<h4>Abstract: </h4>
+<p>Hybrid graph visualizations combine the classical node-link paradigm with alternative drawing styles within a single layout. Node-link diagrams are used to show the global structure of a network, while dense portions are represented using other paradigms, such as adjacency matrices or chord diagrams, to mitigate the visual clutter caused by edge crossings.
+This lecture will present a research perspective on hybrid graph visualization as a graph drawing topic at the intersection of theory and practice. It will discuss how practical visualization challenges motivate new theoretical questions, and how algorithmic and combinatorial foundations can guide the design of effective visualization techniques. Through selected examples from the literature, we will examine key models, algorithmic problems, and experimental user evaluations for hybrid visualizations, highlighting both established results and open challenges.
+</p>
+ <h4>Biography: </h4>
+<p>Alessandra Tappini is an Assistant Professor in the Department of Engineering at the University of Perugia. Her research focuses on graph drawing from both theoretical and applied perspectives, with additional interests in algorithmic graph theory and information visualization. She earned her PhD in Industrial and Information Engineering from the University of Perugia in 2020 under the supervision of Giuseppe Liotta. From 2020 to 2025, she served as a postdoctoral researcher at the same institution.
+</p>   
 </div>
 
 <div class="header" id="Carola-Wenk">
