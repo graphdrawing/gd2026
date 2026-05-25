@@ -152,6 +152,12 @@ toc: true
 </figure>
 <h3><a href="https://abureyanahmed.github.io/profile/">Prof. Dr. Reyan Ahmed</a></h3>
 <p><strong><a href="https://www.arizona.edu/">University of Arizona</a>, United States</strong></p>
+<h3>Title: Graph sparsification and its application to network visualization</h3>
+<h4>Abstract: </h4>
+<p>we explore recent advancements in large network visualization through the lens of graph spanners and related techniques. The first topic introduces a generalized multi-level sparsification approach that enhances connectivity among vertices with varying importance, extending traditional methods such as spanning trees and Steiner trees. The second topic focuses on the construction of spanners in weighted graphs, addressing the challenges of preserving distances with additive errors while demonstrating how classic spanner constructions can be effectively adapted for improved efficiency. Next, we present a novel algorithm for creating scalable, readable tree layouts, emphasizing the minimization of edge crossings and label overlaps while optimizing edge lengths and compactness. Collectively, these topics provide valuable insights into leveraging graph spanners for the effective visualization of complex relational datasets and enhancing our understanding of large networks. Finally, we present an approach that optimizes multiple readability criteria simultaneously in network visualizations. Unlike traditional visualization methods that focus on a single criterion, this approach flexibly supports both smooth and non-smooth optimization objectives, including stress, edge lengths, neighborhood preservation, and angular resolution. Experimental results demonstrate that the approach improves graph readability and produces high-quality layouts across diverse visualization tasks.</p>
+ <h4>Biography: </h4>
+<p>Reyan Ahmed is an assistant professor at the computer science department of the University of Arizona. He received his Ph.D. from the same department in 2021. Before that he has received his M.Sc. and B.Sc. from the department of computer science and engineering of Bangladesh University of Engineering and Technology. His research interests include graph algorithms, network visualization, and data science.
+</p>   
 </div>
 
 <div class="header" id="Will-Evans">
