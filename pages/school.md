@@ -207,6 +207,15 @@ This lecture will present a research perspective on hybrid graph visualization a
 </figure>
 <h3><a href="https://cs.tulane.edu/~carola/">Prof. Dr. Carola Wenk</a></h3>
 <p><strong><a href="https://tulane.edu/">Tulane University</a>, United States</strong></p>
+<h3>Title: Geometric Graph Similarity: Distances, Matchings, and Algorithms</h3>
+<h4>Abstract: </h4>
+<p>Geometric graphs arise naturally in applications such as road and river networks, transportation systems, biological structures, trajectories, plant morphology, and commodity networks. Comparing such graphs requires distance measures that capture both geometry and topology while remaining robust to noise, different levels of detail, and non-isomorphic graph structure.
+This lecture will survey distance measures for embedded and immersed graphs, including planar embedded graphs and graphs with well-behaved crossings. We will discuss algorithmic approaches and hardness results, with a particular focus on the mappings or matchings induced between the graphs, rather than only on the resulting distance value. We will also highlight approaches from topological data analysis that define signatures and distances for comparing geometric graphs. The lecture will conclude with open problems and challenges in developing distances that are mathematically well-founded, computationally tractable, and useful in applications.
+
+</p>
+ <h4>Biography: </h4>
+<p>Carola Wenk is a Professor of Computer Science at Tulane University. Her research is in computational geometry, with a focus on algorithms for shape matching, curves, trajectories, and geometric graphs. She is particularly known for her work on the Fréchet distance and related similarity measures, including applications to map matching, trajectory analysis, and comparison of embedded geometric structures. Her work combines algorithmic foundations with applications in geospatial data analysis, movement modeling, and biomedical imaging.
+</p>   
 </div>
 
 
