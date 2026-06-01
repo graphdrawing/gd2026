@@ -182,6 +182,11 @@ toc: true
 </figure>
 <h3><a href="https://saidurrahman.buet.ac.bd/">Prof. Dr. Md. Saidur Rahman</a></h3>
 <p><strong><a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology (BUET)</a>, Bangladesh</strong></p>
+
+<h3>Title: Drawing Planar Graphs</h3>
+<h4>Abstract: </h4>
+<p>A graph is planar if it can be drawn or embedded in the plane so that no two edges intersect geometrically except at a vertex to which they are both incident. A plane graph is a planar graph with a fixed planar embedding in the plane. A drawing problem X for a plane graph G asks to determine whether G has a drawing D satisfying a set P of given properties and to find D if it exists. The corresponding problem for a planar graph G asks to determine whether G has a planar embedding that  has a drawing D satisfying the set P of properties and find D if it exists. If every embedding of G has a drawing D satisfying P, then the problem is trivial, i.e., the problem for plane graphs and that for planar graphs are the same. Otherwise, the problem for planar graphs becomes difficult even if an efficient solution of the problem for a plane graph exists since a planar graph may have an exponential number of planar embeddings. Various techniques are found in literature that are used to solve the drawing problems for planar graphs. In this talk, we discuss three of the widely used techniques, namely, (i) reduction to planarity testing, (ii) incremental modification and (iii) SPQR-tree decomposition.
+</p>
 </div>
  
 
