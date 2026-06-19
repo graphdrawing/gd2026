@@ -166,6 +166,32 @@ toc: true
 </figure>
 <h3><a href="https://www.cs.ubc.ca/~will/">Prof. Dr. Will Evans</a></h3>
 <p><strong><a href="https://www.ubc.ca/">University of British Columbia</a>, Canada</strong></p>
+<h3>Title: TBA</h3>
+<h4>Abstract: </h4>
+Suppose we create a partial order on the vertices and edges of an
+undirected graph <i>G</i> by saying that vertex <i>v</i> is less than
+edge <i>e</i> if and only if <i>v</i> is an endpoint of <i>e</i> in
+<i>G</i>. This is only a partial order since we can't tell, for
+example, which of two different vertices is less than the other.
+The <em>dimension</em> of such a partial order is the minimum number of total
+orders on vertices and edges whose intersection is the partial order.
+In 1989 Walter Schnyder published a paper showing that <i>G</i> is a
+planar graph if and only if the dimension of its partial order is at
+most three.
+We'll talk about how this leads to an elegant method (also due to
+Schnyder) for drawing planar graphs using small integer coordinates
+and how it can be used to create representations of graphs as the
+contact of simple objects.
+ <h4>Biography: </h4>
+<p>Dr. William (Will) Evans is a Professor Emeritus of Computer Science
+at the University of British Columbia (UBC). He obtained his B.Sc. in
+computer science (1987) from Yale University and his Ph.D. in computer
+science (1994) from University of California, Berkeley under the
+supervision of Dr. Manuel Blum. He was a postdoc at UBC for two years
+with Dr. Nick Pippenger then an Assistant Professor at the University of
+Arizona for four years. He returned to UBC in 2001 and became a Full
+Professor Emeritus in 2025.
+</p>   
 </div>
 
 <div class="header" id="Myroslav-Kryven">
