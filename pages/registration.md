@@ -30,7 +30,7 @@ The fees for the PhD School only cover the participation at the lectures, lunche
 | **Symposium**               |                                     |                                   |
 | Student                     | 450 CAD                             | 550 CAD                          |
 | Regular                     | 600 CAD                             | 750 CAD                           |
-| Steering Committee Members  | 680 CAD                             | 680 CAD                           |  
+| Steering Committee Members  | 680 CAD                             | 830 CAD                           |  
 | **Extra Banquet Ticket**    |                                     |                                   |
 | Regular                     | 100 CAD                             | 100 CAD                          |
 |-----------------------------|-------------------------------------|-----------------------------------|
