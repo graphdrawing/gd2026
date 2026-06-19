@@ -48,31 +48,4 @@ The fees for the PhD School only cover the participation at the lectures, lunche
 Symposium registration is carried out through the following link:
 
 - [**Registration Link**](https://brocku.universitytickets.com/w/event.aspx?id=2915){:target="_blank"}
-<!--
-- [**Student** / **Late** registration](https://www.trippus.net/GD2025_Student_Latefee){:target="_blank"}
-- [**Regular** / **Late** registration](https://www.trippus.net/GD2025_RegularParticipantLatefee){:target="_blank"}
-- [**Steering Committee Members** / **Late** registration](https://www.trippus.net/GD2025_SteeringcommitteMembers_Latefee){:target="_blank"}
-
-Participation in the **PhD school** and an **extra banquet ticket** can be selected as extra options while registering for the symposium using the links above.
-
-<p style="margin-bottom: 0.5em; margin-top: 1.5em;">Payment Options:</p>
-<ul style="margin-top: 0;">
-<li><strong>Credit Card Payment (Recommended)</strong>
-  <ul>
-  <li>Secure card payment processed through SwePay</li>
-  <li>Accepts debit and credit card payments with VISA, MasterCard, and Maestro</li>
-  </ul>
-</li>
-<li><strong>Invoice/Bank Transfer</strong>
-  <ul>
-  <li>Processed through the payment solution Billecta</li>
-  <li><strong>Additional administrative fee: 125 SEK</strong></li>
-  </ul>
-</li>
-</ul>
-
-<ul>
-<li>25% VAT is included in all fees according to Swedish legislation.</li>
-<li>Registration cancellation and changes policy information is available within the registration form pages.</li>
-</ul>
--->
+ 
