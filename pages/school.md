@@ -166,7 +166,8 @@ toc: true
 </figure>
 <h3><a href="https://www.cs.ubc.ca/~will/">Prof. Dr. Will Evans</a></h3>
 <p><strong><a href="https://www.ubc.ca/">University of British Columbia</a>, Canada</strong></p>
-<h3>Title: TBA</h3>
+<h3>Title: Contact Representation of Graphs using Schnyder Woods
+</h3>
 <h4>Abstract: </h4>
 Suppose we create a partial order on the vertices and edges of an
 undirected graph <i>G</i> by saying that vertex <i>v</i> is less than
