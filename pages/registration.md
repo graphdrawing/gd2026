@@ -48,7 +48,7 @@ The fees for the PhD School only cover the participation at the lectures, lunche
 Symposium registration is carried out through the following link:
 
 - [**Registration Link**](https://brocku.universitytickets.com/w/event.aspx?id=2915){:target="_blank"}
-<!-->
+<!--
 - [**Student** / **Late** registration](https://www.trippus.net/GD2025_Student_Latefee){:target="_blank"}
 - [**Regular** / **Late** registration](https://www.trippus.net/GD2025_RegularParticipantLatefee){:target="_blank"}
 - [**Steering Committee Members** / **Late** registration](https://www.trippus.net/GD2025_SteeringcommitteMembers_Latefee){:target="_blank"}
