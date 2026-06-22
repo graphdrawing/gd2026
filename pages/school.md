@@ -184,7 +184,7 @@ Schnyder) for drawing planar graphs using small integer coordinates
 and how it can be used to create representations of graphs as the
 contact of simple objects.
  <h4>Biography: </h4>
-<p>Dr. William (Will) Evans is a Professor Emeritus of Computer Science
+<p>William (Will) Evans is a Professor Emeritus of Computer Science
 at the University of British Columbia (UBC). He obtained his B.Sc. in
 computer science (1987) from Yale University and his Ph.D. in computer
 science (1994) from University of California, Berkeley under the
@@ -201,6 +201,18 @@ Professor Emeritus in 2025.
 </figure>
 <h3><a href="https://myroslavkryven.gitlab.io/website/">Prof. Dr. Myroslav Kryven</a></h3>
 <p><strong><a href="https://www.amherst.edu/">Amherst College</a>, United States</strong></p>
+
+<h3>Title: From Local Structure to Global Density: Charging Arguments in Graph Drawing
+</h3>
+<h4>Abstract: </h4>
+Proving edge-density bounds is a central topic in graph drawing and topological graph theory. In this talk, we discuss one of the most versatile tools for tackling such problems: the charging argument. We consider several classes of beyond-planar graphs, including RAC graphs, quasi-planar graphs, and fan-planar graphs, and show how local geometric and topological constraints can be turned into global bounds on the number of edges. The emphasis will be on developing intuition for the method: how crossings, edges, faces, and other local structures can be assigned and redistributed “charge” in a way that drives the counting. Along the way, we will also build intuition for when this approach is likely to work in new classes of beyond-planar graphs.
+
+ <h4>Biography: </h4>
+<p>Myroslav Kryven is an Assistant Professor of Computer Science at Amherst College. His research lies at the intersection of theoretical and applied computer science, with interests in graph drawing, parameterized algorithms, computational geometry, and pursuit–evasion games.
+Previously, Myroslav was a postdoctoral researcher at the GADA Lab in the Department of Computer Science at the University of Manitoba, working with Stephane Durocher. Before that, he held postdoctoral positions at the University of Arizona with Stephen Kobourov and at the University of Würzburg with Alexander Wolff.
+He earned his PhD in graph drawing from the University of Würzburg (2016–2020), supervised by Alexander Wolff.
+
+</p>   
 </div>
 
 <div class="header" id="Md.-Saidur-Rahman">
