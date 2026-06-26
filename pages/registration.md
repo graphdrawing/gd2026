@@ -19,7 +19,7 @@ Registration closed on Monday, September 15, 23:59 Stockholm time (CET).
 Registration fees for the symposium include the welcome reception (on Tuesday, August 18), coffee breaks, lunches, and the banquet dinner (on Thursday, August 20).
 Furthermore, the LIPIcs publication fees for the GD26 proceedings are covered by the registration fee.
 
-*For each paper/poster presented at GD 2026, at least one author must be registered for the conference. For requests of invitation letters related to the issuance of a Swedish Visa, please contact [rnishat@brocku.ca](mailto:rnishat@brocku.ca) after registering.*
+*For each paper/poster presented at GD 2026, at least one author must be registered for the conference. For requests of invitation letters related to the issuance of a Canada Visa, please contact [rnishat@brocku.ca](mailto:rnishat@brocku.ca) after registering.*
 
 The fees for the PhD School only cover the participation at the lectures, lunches and coffee breaks (August  17–18).
 
