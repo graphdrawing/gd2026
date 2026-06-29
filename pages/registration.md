@@ -48,4 +48,10 @@ The fees for the PhD School only cover the participation at the lectures, lunche
 Symposium registration is carried out through the following link:
 
 - [**Registration Link**](https://brocku.universitytickets.com/w/event.aspx?id=2915){:target="_blank"}
+
+Audience View site is a North American-based website. If you encounter problem in enterting your phone number of address in their format, please follow these directions. 
+1. When entering a phone number, please use Brock's phone number (905-688-5550)
+2. When entering in an address, please use Brock's address (1812 Sir Isaac Brock Way, St. Catharines, ON, L2S 3A1)
+
+Note that there is not a place on the website to enter in the correct billing address. The merchant gateway - Chase Orbital - has augmented their permissions to allow international transactions without verifying the billing address against the card. This means that a postal code verification is not required by Audience View to process the transaction. 
  
