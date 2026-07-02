@@ -129,34 +129,22 @@ usemathjax: true
 
 ## Track 1: Combinatorial and algorithmic aspects
 
-- TBA
-<!--
-- <span class="authors"><span>Eleni Katsanou, Tamara Mchedlidze, Antonios Symvonis and Thanos Tolias</span>.</span><span class="title"> An algorithm for accurate and simple-looking metaphorical maps</span>
--->
+- TBA 
 
 
 ## Track 2: Experimental, applied, and network visualization aspect
 
-- TBA
-<!--
-- <span class="authors"><span>Eleni Katsanou, Tamara Mchedlidze, Antonios Symvonis and Thanos Tolias</span>.</span><span class="title"> An algorithm for accurate and simple-looking metaphorical maps</span>
--->
+- TBA 
 
 
 ## Short Papers
 
-- TBA
-<!--
-- <span class="authors"><span>Eleni Katsanou, Tamara Mchedlidze, Antonios Symvonis and Thanos Tolias</span>.</span><span class="title"> An algorithm for accurate and simple-looking metaphorical maps</span>
--->
+- TBA 
 
 
 ## Posters
 
-- TBA
-<!--
-- <span class="authors"><span>Eleni Katsanou, Tamara Mchedlidze, Antonios Symvonis and Thanos Tolias</span>.</span><span class="title"> An algorithm for accurate and simple-looking metaphorical maps</span>
--->
+- TBA 
 	
 
 	
