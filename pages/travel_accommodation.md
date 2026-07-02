@@ -8,6 +8,15 @@ header:
 # last_modified_at: 2025-06-30
 toc: true
 ---
+## Accommodation
+
+We have reserved some rooms at the [Four Points by Sheraton Hotel](https://www.marriott.com/en-us/hotels/iagfp-four-points-st-catharines-niagara-suites/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) near Brock campus with special rates for stays from **Sunday, August 16, 2026 to Sunday, August 23, 2026**. 
+
+[Book your group rate for International Symposium on Graph Drawing and Network Visualization (GD 2026)](https://app.marriott.com/resview2?id=1782494703937&key=GRP&app=resvlink)
+
+
+You may also book rooms at [Brock Residence 8](https://brocku.ca/housing/residence8/#1626725775341-6ccf2d84-d5ea). The booking link will be posted soon. 
+
 
 ## Travel
 
@@ -66,15 +75,6 @@ You will need to purchase your ticket ahead of time. It is better to take a bus 
 - [https://frca.megabus.com/](https://frca.megabus.com/)
 
 The Union Station bus terminal is in a different building, across the  street from the train station. Here are some directions. Getting off the subway, head up the stairs, and exit the TTC out the row of glass doors. From here, turn right and head to Bay Street. Crossing Bay Street, you will find a set of doors under the overpass. Enter here, head down the long hallway, take the escalator on your left, and you will be in the GO Bus Union Station Terminal which is also used by private charter buses.
-
-## Accommodation
-
-We have reserved some rooms at the [Four Points by Sheraton Hotel](https://www.marriott.com/en-us/hotels/iagfp-four-points-st-catharines-niagara-suites/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) near Brock campus with special rates for stays from **Sunday, August 16, 2026 to Sunday, August 23, 2026**. 
-
-[Book your group rate for International Symposium on Graph Drawing and Network Visualization (GD 2026)](https://app.marriott.com/resview2?id=1782494703937&key=GRP&app=resvlink)
-
-
-You may also book rooms at [Brock Residence 8](https://brocku.ca/housing/residence8/#1626725775341-6ccf2d84-d5ea). The booking link will be posted soon. 
 
 ## Tourism and Dining
 
