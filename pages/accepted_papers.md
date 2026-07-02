@@ -127,19 +127,43 @@ usemathjax: true
   
 </style>
 
-## Track 1: Combinatorial and algorithmic aspects
+## Accepted Papers
 
-- TBA 
-
-
-## Track 2: Experimental, applied, and network visualization aspect
-
-- TBA 
-
-
-## Short Papers
-
-- TBA 
+- <div class="paper"><span class="authors"><span>Yasuaki Kobayashi and Yuto Okada</span>. </span><span class="title">2-Layer Fan-Planarity in Polynomial Time</span></div>
+- <div class="paper"><span class="authors"><span>Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. </span><span class="title">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</span></div>
+- <div class="paper"><span class="authors"><span>Stefan Felsner</span>. </span><span class="title">Antipodal Pairs and Crossing Numbers</span></div>
+- <div class="paper"><span class="authors"><span>Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. </span><span class="title">On the Complexity of Extending Storylines</span></div>
+- <div class="paper"><span class="authors"><span>Alexandra Weinberger and Ji Zeng</span>. </span><span class="title">What induces plane structures in complete graph drawings?</span></div>
+- <div class="paper"><span class="authors"><span>Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. </span><span class="title">On the 2-Bend Slope Number of 1-Planar Graphs</span></div>
+- <div class="paper"><span class="authors"><span>Anna Lubiw and Marcus Schaefer</span>. </span><span class="title">Recognizing Penny and Marble Graphs is Hard for Existential Theory of the Reals</span></div>
+- <div class="paper"><span class="authors"><span>Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. </span><span class="title">On t-colorable k-plane drawings</span></div>
+- <div class="paper"><span class="authors"><span>Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. </span><span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span></div>
+- <div class="paper"><span class="authors"><span>Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. </span><span class="title">Clic: Highlighting Clique Motifs in Biofabric Visualizations</span></div>
+- <div class="paper"><span class="authors"><span>Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. </span><span class="title">A first view on the density of 5-planar graphs</span></div>
+- <div class="paper"><span class="authors"><span>Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. </span><span class="title">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</span></div>
+- <div class="paper"><span class="authors"><span>Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. </span><span class="title">Stack and Queue Layouts with Defects</span></div>
+- <div class="paper"><span class="authors"><span>Vera Chekan, Robert Ganian and Viktoriia Korchemna</span>. </span><span class="title">A Fixed-Parameter Algorithm for Extending Upward Planar Drawings</span></div>
+- <div class="paper"><span class="authors"><span>Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. </span><span class="title">Monotone Clustered Level Planarity</span></div>
+- <div class="paper"><span class="authors"><span>Stefan Felsner, Jędrzej Hodor, Giacomo Ortali and Alexander Wolff</span>. </span><span class="title">Navigating Posets with Few Maps</span></div>
+- <div class="paper"><span class="authors"><span>Kelvin Luu and Csaba Tóth</span>. </span><span class="title">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</span></div>
+- <div class="paper"><span class="authors"><span>Michal Katrlík</span>. </span><span class="title">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</span></div>
+- <div class="paper"><span class="authors"><span>Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. </span><span class="title">Does graph structure affect drawing quality?</span></div>
+- <div class="paper"><span class="authors"><span>Kazuo Misue and Naoto Kikuta</span>. </span><span class="title">Opacity-Modulated Edge Drawing</span></div>
+- <div class="paper"><span class="authors"><span>Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. </span><span class="title">Weighted Book Thickness</span></div>
+- <div class="paper"><span class="authors"><span>Thomas Depian, Thomas C. Van Dijk and Martin Nöllenburg</span>. </span><span class="title">Paged Geophylogenies: A Coloring Approach to External Labeling with Tree Constraints</span></div>
+- <div class="paper"><span class="authors"><span>Giordano Andreola, Susanna Caroppo, Giordano Da Lozzo, Marco D'Elia, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani</span>. </span><span class="title">Extending Biconnected Straight-Line Planar Drawings</span></div>
+- <div class="paper"><span class="authors"><span>Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. </span><span class="title">Two Results on Outer-String Graphs</span></div>
+- <div class="paper"><span class="authors"><span>Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. </span><span class="title">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</span></div>
+- <div class="paper"><span class="authors"><span>Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. </span><span class="title">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span></div>
+- <div class="paper"><span class="authors"><span>Markus Wallinger, Oscar Navarro and Stephen Kobourov</span>. </span><span class="title">Minimum-Width Drawings of Trees with Sized Vertices</span></div>
+- <div class="paper"><span class="authors"><span>Patrizio Angelini, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong and Ignaz Rutter</span>. </span><span class="title">Beyond Degree Four: Near-Orthogonal Planar Drawings</span></div>
+- <div class="paper"><span class="authors"><span>Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. </span><span class="title">Point Set Embeddability with List Constraints</span></div>
+- <div class="paper"><span class="authors"><span>Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. </span><span class="title">1-Planar Drawings of Products of Cycles</span></div>
+- <div class="paper"><span class="authors"><span>Saeed Odak, Jonathan Rollin and Torben Scheele</span>. </span><span class="title">On 2-Layer k-Matching-Planar Graphs</span></div>
+- <div class="paper"><span class="authors"><span>Sergey Pupyrev</span>. </span><span class="title">How to Draw a Planar Graph: An Experimental Evaluation</span></div>
+- <div class="paper"><span class="authors"><span>Marcel Nöhre and Gerd Stumme</span>. </span><span class="title">Node Labeling in Line Diagrams of Ordered Sets</span></div>
+- <div class="paper"><span class="authors"><span>Todor Antić, Jiří Fiala, Jelena Glišić, Grzegorz Gutowski, Konstanty Junosza-Szaniawski, Jan Kratochvíl, Giuseppe Liotta, Morteza Saghafian, Maria Saumell, Krisztina Szilágyi and Pavel Valtr</span>. </span><span class="title">How Close is a Tree to a Euclidean Minimum Spanning Tree?</span></div>
+- <div class="paper"><span class="authors"><span>Amyra Meidiana and Seok-Hee Hong</span>. </span><span class="title">Fast UMAP-based Graph Drawing</span></div> 
 
 
 ## Posters
