@@ -18,8 +18,8 @@ main:
      url: /pages/travel_accommodation
    #- title: "Venue"
    #  url: /pages/venue
-   #- title: "Accepted Papers"
-   #  url: /pages/accepted_papers
+   - title: "Accepted Papers"
+     url: /pages/accepted_papers
    - title: "Committees"
      url: /pages/committee
    - title: "News"
