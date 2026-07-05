@@ -162,7 +162,7 @@ usemathjax: true
 - <div class="paper"><span class="authors"><span>Saeed Odak, Jonathan Rollin and Torben Scheele</span>. </span><span class="title">On 2-Layer k-Matching-Planar Graphs (Track 1, long)</span></div>
 - <div class="paper"><span class="authors"><span>Sergey Pupyrev</span>. </span><span class="title">How to Draw a Planar Graph: An Experimental Evaluation (Track 2, long)</span></div>
 - <div class="paper"><span class="authors"><span>Marcel Nöhre and Gerd Stumme</span>. </span><span class="title">Node Labeling in Line Diagrams of Ordered Sets (Track 2, long)</span></div>
-- <div class="paper"><span class="authors"><span>Todor Antić, Jiří Fiala, Jelena Glišić, Grzegorz Gutowski, Konstanty Junosza-Szaniawski, Jan Kratochvíl, Giuseppe Liotta, Morteza Saghafian, Maria Saumell, Krisztina Szilágyi and Pavel Valtr (Track 1, long)</span>. </span><span class="title">How Close is a Tree to a Euclidean Minimum Spanning Tree?</span></div>
+- <div class="paper"><span class="authors"><span>Todor Antić, Jiří Fiala, Jelena Glišić, Grzegorz Gutowski, Konstanty Junosza-Szaniawski, Jan Kratochvíl, Giuseppe Liotta, Morteza Saghafian, Maria Saumell, Krisztina Szilágyi and Pavel Valtr (Track 1, long)</span>. </span><span class="title">How Close is a Tree to a Euclidean Minimum Spanning Tree? (Track 1, long)</span></div>
 - <div class="paper"><span class="authors"><span>Amyra Meidiana and Seok-Hee Hong</span>. </span><span class="title">Fast UMAP-based Graph Drawing (Track 2, short)</span></div> 
 
 
