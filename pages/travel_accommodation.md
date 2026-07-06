@@ -14,8 +14,26 @@ We have reserved some rooms at the [Four Points by Sheraton Hotel](https://www.m
 
 [Book your group rate for International Symposium on Graph Drawing and Network Visualization (GD 2026)](https://app.marriott.com/resview2?id=1782494703937&key=GRP&app=resvlink)
 
+### Accommodation at Brock University
 
-You may also book rooms at [Brock Residence 8](https://brocku.ca/housing/residence8/#1626725775341-6ccf2d84-d5ea). The booking link will be posted soon. 
+You may also book rooms at Brock Residence 8 following these steps.
+
+1. Go to the **[online booking site](https://brocku.starrezhousing.com/StarRezPortalXConference/2286956A/8/10/Home-Home?UrlToken=3203F365)**
+2. Select **"Book Overnight Accommodation"**
+3. Front the drop down, select **"Yes - I am attending a Conference or Event"**
+4. From the next drop down, select **"No - Register"** if you have not previously booked accommodations online at Brock.
+5. Complete the required fields to build your profile. Click **"Save and Continue"**
+6. On the **"Accommodations Selector"** page, enter the Group Promotion Code: GD2026. If this code is not entered, the system may not allow bedroom reservations, if all other accommodation areas are unavailable over the conference dates.
+7. Select the preferred accommodation style (private vs. shared)
+   i. Private, meaning not sharing a washroom with the neighbouring bedroom
+   ii. Shared, meaning sharing a washroom with the neighbouring bedroom (perhaps with a guest of the same gender identity that they may not know)
+8. Read the information, click **"Continue"**
+9. Select the dates that you wish to stay overnight, click **"Select" under "Residence 8"**
+10. Select a bedroom option, and click **"Add to Cart"**
+11. Follow the prompts to complete payment with credit card (Visa or Mastercard). After, registrants can indicate a preference to share with a specific guest that is reserving separately via the comments section.
+12. Please continue with all steps and complete the information relevant to your booking. Parking validation is an important step of the booking process that must be completed to ensure that your vehicle is not ticketed while parked at Brock in the designated lot(s). Otherwise, you may validate your vehicle for parking access at the accommodations Front Desk.
+13. Successful registrants will receive a confirmation email once the process is complete. If an email is not received, reservation is not confirmed, and process is incomplete.
+14. Contact your event coordinator by email, or email **conference@brocku.ca** if you require assistance with these steps.
 
 
 ## Travel
