@@ -16,14 +16,14 @@ We have reserved some rooms at the [Four Points by Sheraton Hotel](https://www.m
 
 ### Accommodation at Brock University
 
-You may also book rooms at Brock Residence 8 following these steps.
+You may also book rooms at Brock Residence 8 following these steps. **The deadline to book accommodation is August 8, 2026**.
 
 1. Go to the **[online booking site](https://brocku.starrezhousing.com/StarRezPortalXConference/2286956A/8/10/Home-Home?UrlToken=3203F365)**
 2. Select **"Book Overnight Accommodation"**
 3. Front the drop down, select **"Yes - I am attending a Conference or Event"**
 4. From the next drop down, select **"No - Register"** if you have not previously booked accommodations online at Brock.
 5. Complete the required fields to build your profile. Click **"Save and Continue"**
-6. On the **"Accommodations Selector"** page, enter the Group Promotion Code: GD2026. If this code is not entered, the system may not allow bedroom reservations, if all other accommodation areas are unavailable over the conference dates.
+6. On the **"Accommodations Selector"** page, enter the **<span style="color:#FF5733">Group Promotion Code: GD2026</span>**. If this code is not entered, the system may not allow bedroom reservations, if all other accommodation areas are unavailable over the conference dates.
 7. Select the preferred accommodation style (private vs. shared)
    i. Private, meaning not sharing a washroom with the neighbouring bedroom
    ii. Shared, meaning sharing a washroom with the neighbouring bedroom (perhaps with a guest of the same gender identity that they may not know)
