@@ -54,4 +54,13 @@ Audience View site is a North American-based website. If you encounter problem i
 2. When entering in an address, please use Brock's address (1812 Sir Isaac Brock Way, St. Catharines, ON, L2S 3A1)
 
 Note that there is not a place on the website to enter in the correct billing address. The merchant gateway - Chase Orbital - has augmented their permissions to allow international transactions without verifying the billing address against the card. This means that a postal code verification is not required by Audience View to process the transaction. 
+
+## Support letter for visa application
+
+GD 2026 has been registered with IRCC. To learn about the IRCC code and/or to get a supporting letter for your visa application, please email rnishat@brocku.ca with the following information.
+
+1. Your affiliation (university name)
+2. Passport number (only if you want it on the letter)
+3. If you are presenting a paper, the name of the paper and the authors. 
+
  
