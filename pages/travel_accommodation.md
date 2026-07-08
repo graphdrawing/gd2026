@@ -35,7 +35,6 @@ You may also book rooms at Brock Residence 8 following these steps. **The deadli
 13. Successful registrants will receive a confirmation email once the process is complete. If an email is not received, reservation is not confirmed, and process is incomplete.
 14. Contact your event coordinator by email, or email **conference@brocku.ca** if you require assistance with these steps.
 
-
 ## Travel
 
 ### By Car
@@ -94,11 +93,12 @@ You will need to purchase your ticket ahead of time. It is better to take a bus 
 
 The Union Station bus terminal is in a different building, across the  street from the train station. Here are some directions. Getting off the subway, head up the stairs, and exit the TTC out the row of glass doors. From here, turn right and head to Bay Street. Crossing Bay Street, you will find a set of doors under the overpass. Enter here, head down the long hallway, take the escalator on your left, and you will be in the GO Bus Union Station Terminal which is also used by private charter buses.
 
-## Tourism and Dining
 
-### Tourism
+## Tourism
 
-Brock University is situated in the Niagara region in the City of St. Catharines. Within an hour’s drive to the City Centre of Toronto and 20-minute drive to Niagara Falls. Known as the “Garden City”, St. Catharines is surrounded by lush orchards and vineyards to the east and west and bordered by the Niagara Escarpment to the south and Lake Ontario to the north. Brock University sits on top of the beautiful Niagara escarpment and is the only Canadian university with the distinction of being part of a UNESCO Biosphere Reserve.
+### Tourism in the Niagara Region
+
+Brock University is situated in the Niagara Region, in the City of St. Catharines, approximately a 20-minute drive from Niagara Falls. Known as the “Garden City”, St. Catharines is surrounded by orchards and vineyards to the east and west, and bordered by the Niagara Escarpment to the south and Lake Ontario to the north. Brock University sits on top of the Niagara Escarpment and is the only Canadian university with the distinction of being part of a UNESCO Biosphere Reserve.
 
 [Visit Niagara Parks – See Niagara Falls](https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/deals-packages/?gclid=Cj0KCQiAx6ugBhCcARIsAGNmMbjYqtvFnFp0Ohnb4ULdRrDcWc0osyNQHJnOyo1a3AtkaOqbVTxZP3UaAvk2EALw_wcB)
 
@@ -123,11 +123,74 @@ Brock University is situated in the Niagara region in the City of St. Catharines
   >
 </div>
 
-### Dining
+### Beyond the Niagara Region
+
+Visitors extending their stay before or after the conference may also wish to explore other parts of Southern Ontario. The destinations below are most suitable for a free day before or after the conference, rather than for an evening excursion during the conference week.
+
+#### Toronto
+
+Toronto is a natural option for visitors arriving through Pearson International Airport or Union Station. Canada's largest city offers landmark architecture, major museums and galleries, waterfront walks, and neighbourhoods with a wide range of food, shopping, and cultural activities.
+
+[CN Tower](https://www.cntower.ca/)
+
+[Royal Ontario Museum](https://www.rom.on.ca/)
+
+[Art Gallery of Ontario](https://ago.ca/)
+
+[Casa Loma](https://casaloma.ca/)
+
+[Toronto Islands](https://www.destinationtoronto.com/things-to-do/outdoors-and-recreation/parks-and-green-spaces/toronto-islands/)
+
+[St. Lawrence Market](https://www.stlawrencemarket.com/)
+
+[Destination Toronto – Things to Do and Current Events](https://www.destinationtoronto.com/)
+
+<div style="display: flex; gap: 2%; align-items: flex-start; margin-top: 1.5em; margin-bottom: 0.5em;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/August_2012_Toronto_Waterfront_Skyline%2C_CN_Tower%2C_Rogers_Centre_from_the_Harbor_%287869105720%29.jpg/960px-August_2012_Toronto_Waterfront_Skyline%2C_CN_Tower%2C_Rogers_Centre_from_the_Harbor_%287869105720%29.jpg"
+    alt="Toronto waterfront skyline with the CN Tower"
+    style="width: 49%; height: auto;"
+  >
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Casa_Loma%2C_Toronto.JPG/960px-Casa_Loma%2C_Toronto.JPG"
+    alt="Casa Loma in Toronto"
+    style="width: 49%; height: auto;"
+  >
+</div>
+
+#### Waterloo Region
+
+Waterloo Region may be of particular interest to visitors wishing to see the University of Waterloo and the Perimeter Institute for Theoretical Physics. A visit can be combined with a walk around campus, cafés and restaurants in Uptown Waterloo, or an excursion to nearby St. Jacobs. Visitors interested in Perimeter Institute should consult its public-events calendar before planning a visit.
+
+[University of Waterloo Campus Map](https://uwaterloo.ca/map/)
+
+[University of Waterloo Earth Sciences Museum](https://uwaterloo.ca/earth-sciences-museum/)
+
+[Perimeter Institute Public Events](https://perimeterinstitute.ca/events)
+
+[Uptown Waterloo](https://uptownwaterloobia.com/)
+
+[Canadian Clay and Glass Gallery](https://www.theclayandglass.ca/)
+
+[St. Jacobs Farmers’ Market](https://www.stjacobsmarket.com/)
+
+[Explore Waterloo Region](https://explorewaterloo.ca/)
+
+<div style="margin-top: 1.5em; margin-bottom: 0.5em;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/St._Jacobs_Farmers%27_Market_Main_courtyard_2024.jpg/960px-St._Jacobs_Farmers%27_Market_Main_courtyard_2024.jpg"
+    alt="St. Jacobs Farmers' Market"
+    style="width: 100%; height: auto;"
+  >
+</div>
+
+## Dining in St. Catharines
+
+For restaurant suggestions near Brock University and elsewhere in St. Catharines, see the following resources.
 
 [TripAdvisor Suggestions](https://www.tripadvisor.ca/Restaurants-g155013-St_Catharines_Ontario.html)
 
 [OpenTable Suggestions](https://www.opentable.ca/features/best-casual-restaurants-st-catharines-ontario)
 
 [Dining in Downtown St. Catharines](https://mydowntown.ca/discover/category/dine/)
- 
+
