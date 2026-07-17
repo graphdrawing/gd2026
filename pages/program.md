@@ -1011,7 +1011,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="reception">
       <td>17:30 &mdash; 23:00</td>
-      <td>Social Dinner, <span class="room-info"><a href="" target="_blank">Queen Victoria Place, Niagara Falls</a></span></td>
+      <td>Social Dinner, <span class="room-info"><a href="https://www.niagaraparks.com/visit/culinary/queen-victoria-place-restaurant/" target="_blank">Queen Victoria Place, Niagara Falls</a></span></td>
     </tr>
   </tbody>
 </table>
