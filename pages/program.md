@@ -499,7 +499,7 @@ const timelineData = {
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "" },
         { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "", speaker: "Chair: TBA", sponsor: "" },
         { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Location: TBA" },
-        { start: "17:45", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Queen Victoria Place, Niagara Falls" }
+        { start: "17:30", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Queen Victoria Place, Niagara Falls" }
       ]
     },
     {
