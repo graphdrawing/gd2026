@@ -922,81 +922,194 @@ function scrollToSection(sectionId) {
     <col width="75%" />
   </colgroup>
   <thead class="day-header-detailed">
-    <tr><th colspan=2>Thursday, August 20</th></tr>
+    <tr><th colspan="2">Thursday, August 20</th></tr>
   </thead>
   <tbody>
-<tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-<tr class="session header schedule-link" id="session-4" schedule-link-start="2026-08-25T10:00" schedule-link-end="2026-08-25T11:30" schedule-link-text="Session 4"><td><strong>Session 4,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-<tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and
-Marie Diana Sieper</span>. <span class="title"><a class="doi" href="" target="_blank">Monotone Clustered Level Planarity</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title"><a class="doi" href="" target="_blank">On 2-Layer k-Matching-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session "><td>09:40 &mdash; 10:00</td><td><span class="authors"><span class="speaker">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session light"><td>10:00 &mdash; 10:15</td><td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title"> <a class="doi" href="" target="_blank">2-Layer Fan-Planarity in Polynomial Time</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session"><td>10:15 &mdash; 10:30</td><td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">On the Complexity of Extending Storylines</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break, <span class="room-info">Room: TBA</span></td></tr>
-<tr class="session header schedule-link" id="session-5" schedule-link-start="2026-08-25T11:00" schedule-link-end="2026-08-25T12:20" schedule-link-text="Session 6"><td><strong>Session 5,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Sponsored by <a href="" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-<tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea
-Tomassoni</span>. <span class="title"><a class="doi" href="" target="_blank">Clic: Highlighting Clique Motifs in Biofabric Visualizations</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr>
-<tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors">Michal Katrlík</span>. <span class="title"><a class="doi" href="" target="_blank">Tight Leading-Term Bounds for the Z2-Genus of Complete
-Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session"><td>11:40 &mdash; 12:00</td><td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title"> <a class="doi" href="" target="_blank">What induces plane structures in complete graph drawings?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Stefan Felsner</span>. <span class="title"><a class="doi" href="" target="_blank">Antipodal Pairs and Crossing Numbers</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-<tr class="lunch"><td>12:20 &mdash; 14:00</td><td>Lunch, <span class="room-info">Location: TBA</span></td></tr>
-<tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2024-09-19T14:00" schedule-link-end="2024-09-19T15:00" schedule-link-text="Invited Talk: TBA"><td>14:00 &mdash; 15:00</td><td><strong><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span></strong><br><span class="authors"><strong>TBA</strong>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity</a> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"></a>]</span>, <br><strong>Chair: TBA</strong></span> </td></tr>
-<tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td></tr>
-<tr class="session header schedule-link" id="session-6" schedule-link-start="2024-09-19T15:30" schedule-link-end="2024-09-19T16:45" schedule-link-text="Session 6"><td><strong>Session 6,<br> 15:30 &mdash; 16:30</strong></td><td><strong>Sponsored by <a href="" target="_blank" style="color: white !important"><strong>TBA</strong></a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-<tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title"><a class="doi" href="" target="_blank">Weaving (Bio)fabric: A Benchmark for Scalability through
-Progressive Sampling Methods</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr>
-<tr class="session light"><td>15:50 &mdash; 16:10</td><td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt,
-Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Using Reinforcement Learning to Optimize the Global and
-Local Crossing Number</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr>
-<tr class="session "><td>16:10 &mdash; 16:30</td><td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title"><a class="doi" href="" target="_blank">Does graph structure affect drawing quality?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr> 
-<tr class="business-meeting"><td><strong>16:30 &mdash; 17:30</strong></td><td><strong>Business Meeting, <span class="room-info">Room: TBA</span></strong></td></tr>
-<tr class="reception"><td>17:30 &mdash; 23:00</td><td>Social Dinner, <span class="room-info"><a href="" target="_blank">Location: TBA</a></span></td></tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td><strong>Event</strong></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-4" schedule-link-start="2026-08-20T09:00" schedule-link-end="2026-08-20T10:30" schedule-link-text="Session 4">
+      <td><strong>Session 4,<br> 09:00 &mdash; 10:30</strong></td>
+      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>09:00 &mdash; 09:20</td>
+      <td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. <span class="title"><a class="doi" href="" target="_blank">Monotone Clustered Level Planarity</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>09:20 &mdash; 09:40</td>
+      <td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title"><a class="doi" href="" target="_blank">On 2-Layer k-Matching-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>09:40 &mdash; 10:00</td>
+      <td><span class="authors"><span class="speaker">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span></span>. <span class="title"><a class="doi" href="" target="_blank">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>10:00 &mdash; 10:15</td>
+      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title"><a class="doi" href="" target="_blank">2-Layer Fan-Planarity in Polynomial Time</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>10:15 &mdash; 10:30</td>
+      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">On the Complexity of Extending Storylines</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="coffee">
+      <td>10:30 &mdash; 11:00</td>
+      <td>Coffee Break, <span class="room-info">Room: TBA</span></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-5" schedule-link-start="2026-08-20T11:00" schedule-link-end="2026-08-20T12:20" schedule-link-text="Session 5">
+      <td><strong>Session 5,<br> 11:00 &mdash; 12:20</strong></td>
+      <td><strong>Sponsored by <a href="" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>11:00 &mdash; 11:20</td>
+      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title"><a class="doi" href="" target="_blank">Clic: Highlighting Clique Motifs in Biofabric Visualizations</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>11:20 &mdash; 11:40</td>
+      <td><span class="authors">Michal Katrlík</span>. <span class="title"><a class="doi" href="" target="_blank">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>11:40 &mdash; 12:00</td>
+      <td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title"><a class="doi" href="" target="_blank">What induces plane structures in complete graph drawings?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>12:00 &mdash; 12:20</td>
+      <td><span class="authors">Stefan Felsner</span>. <span class="title"><a class="doi" href="" target="_blank">Antipodal Pairs and Crossing Numbers</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="lunch">
+      <td>12:20 &mdash; 14:00</td>
+      <td>Lunch, <span class="room-info">Location: TBA</span></td>
+    </tr>
+    <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk: Hans Bodlaender">
+      <td>14:00 &mdash; 15:00</td>
+      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="authors"><strong>Hans Bodlaender</strong>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity</a> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"></a>]</span>, <br><strong>Chair: TBA</strong></span></td>
+    </tr>
+    <tr class="coffee">
+      <td><strong>15:00 &mdash; 15:30</strong></td>
+      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-6" schedule-link-start="2026-08-20T15:30" schedule-link-end="2026-08-20T16:30" schedule-link-text="Session 6">
+      <td><strong>Session 6,<br> 15:30 &mdash; 16:30</strong></td>
+      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important"><strong>TBA</strong></a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>15:30 &mdash; 15:50</td>
+      <td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title"><a class="doi" href="" target="_blank">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>15:50 &mdash; 16:10</td>
+      <td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="session">
+      <td>16:10 &mdash; 16:30</td>
+      <td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title"><a class="doi" href="" target="_blank">Does graph structure affect drawing quality?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="business-meeting">
+      <td><strong>16:30 &mdash; 17:30</strong></td>
+      <td><strong>Business Meeting, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="reception">
+      <td>17:30 &mdash; 23:00</td>
+      <td>Social Dinner, <span class="room-info"><a href="" target="_blank">Location: TBA</a></span></td>
+    </tr>
   </tbody>
 </table>
 
 <hr>
-
 <table id="friday">
   <colgroup>
     <col width="25%" />
     <col width="75%" />
   </colgroup>
   <thead class="day-header-detailed">
-    <tr><th colspan=2>Friday, August 21</th></tr>
+    <tr><th colspan="2">Friday, August 21</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header schedule-link" id="session-7" schedule-link-start="2024-09-20T09:00" schedule-link-end="2024-09-20T10:30" schedule-link-text="Session 8"><td><strong>Session 7,<br> 09:00 &mdash; 10:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-    <tr class="session"><td>09:00 &mdash; 09:20</td><td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title"><a class="doi" href="" target="_blank">Opacity-Modulated Edge Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr>
-    <tr class="session light"><td>09:20 &mdash; 09:40</td><td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria
-Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Weighted Book Thickness</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session "><td>09:40 &mdash; 10:10</td><td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title"><a class="doi" href="" target="_blank">Two Results on Outer-String Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session light"><td>10:10 &mdash; 10:30</td><td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title"><a class="doi" href="" target="_blank">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr> 
-  <tr class="session "><td>09:40 &mdash; 10:10</td><td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title"><a class="doi" href="" target="_blank">Fast UMAP-based Graph Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td></tr>
-    <tr class="coffee"><td><strong>10:30 &mdash; 11:00</strong></td><td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td></tr>
-    <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
-    <tr class="session header schedule-link" id="session-8" schedule-link-start="2024-09-20T11:00" schedule-link-end="2024-09-20T12:20" schedule-link-text="Session 8"><td><strong>Session 8,<br> 11:00 &mdash; 12:20</strong></td><td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-    <tr class="session"><td>11:00 &mdash; 11:20</td><td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title"><a class="doi" href="" target="_blank">1-Planar Drawings of Products of Cycles</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session light"><td>11:20 &mdash; 11:40</td><td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann,
-Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren
-Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On the 2-Bend Slope Number of 1-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session "><td>11:40 &mdash; 12:00</td><td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and
-Maximilian Pfister</span>. <span class="title"><a class="doi" href="" target="_blank">A first view on the density of 5-planar graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session light"><td>12:00 &mdash; 12:20</td><td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On t-colorable k-plane drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr> 
-    <tr class="lunch"><td><strong>12:20 &mdash; 14:00</strong></td><td><strong>Lunch, <span class="room-info">Location: TBA</span></strong></td></tr>
-    <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2024-09-20T14:00" schedule-link-end="2024-09-20T15:00" schedule-link-text="Invited Talk by TBA"><td>14:00 &mdash; 15:00</td><td><strong><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span></strong><br>
-    <span class="authors"><strong> TBA</strong>. </span><span class="title"><a href="" target="_blank"> TBA</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td></tr>
-    <tr class="coffee"><td><strong>15:00 &mdash; 15:30</strong></td><td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td></tr>
-    <tr class="session header schedule-link" id="session-9" schedule-link-start="2024-09-20T15:30" schedule-link-end="2024-09-20T16:45" schedule-link-text="Session 10"><td><strong>Session 9,<br> 15:30 &mdash; 16:30</strong></td><td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td></tr>
-    <tr class="session"><td>15:30 &mdash; 15:50</td><td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias
-Pfretzschner and Lena Schlipf</span>. <span class="title"><a class="doi" href="" target="_blank">Point Set Embeddability with List Constraints</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session light"><td>15:50 &mdash; 16:10</td><td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title"><a class="doi" href="" target="_blank">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr>
-    <tr class="session"><td>16:10 &mdash; 16:30</td><td><span class="authors"><span class="speaker">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian
-Rieck and Birgit Vogtenhuber</span>. <span class="title"><a class="doi" href="" target="_blank">Structural Properties of Shortest Flip Sequences Between
-Plane Spanning Trees</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td></tr> 
-    <tr class="special"><td><strong>16:45 &mdash; 17:00</strong></td><td><strong>Closing Remarks & Award Ceremony, <span class="room-info">Room: TBA</span></strong></td></tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td><strong>Event</strong></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-7" schedule-link-start="2026-08-21T09:00" schedule-link-end="2026-08-21T10:30" schedule-link-text="Session 7">
+      <td><strong>Session 7,<br> 09:00 &mdash; 10:30</strong></td>
+      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>09:00 &mdash; 09:18</td>
+      <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title"><a class="doi" href="" target="_blank">Opacity-Modulated Edge Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>09:18 &mdash; 09:36</td>
+      <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Weighted Book Thickness</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>09:36 &mdash; 09:54</td>
+      <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title"><a class="doi" href="" target="_blank">Two Results on Outer-String Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>09:54 &mdash; 10:12</td>
+      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title"><a class="doi" href="" target="_blank">Fast UMAP-based Graph Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="session">
+      <td>10:12 &mdash; 10:30</td>
+      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title"><a class="doi" href="" target="_blank">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+    </tr>
+    <tr class="coffee">
+      <td><strong>10:30 &mdash; 11:00</strong></td>
+      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-8" schedule-link-start="2026-08-21T11:00" schedule-link-end="2026-08-21T12:20" schedule-link-text="Session 8">
+      <td><strong>Session 8,<br> 11:00 &mdash; 12:20</strong></td>
+      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>11:00 &mdash; 11:20</td>
+      <td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title"><a class="doi" href="" target="_blank">1-Planar Drawings of Products of Cycles</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>11:20 &mdash; 11:40</td>
+      <td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On the 2-Bend Slope Number of 1-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>11:40 &mdash; 12:00</td>
+      <td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. <span class="title"><a class="doi" href="" target="_blank">A first view on the density of 5-planar graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>12:00 &mdash; 12:20</td>
+      <td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On t-colorable k-plane drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="lunch">
+      <td><strong>12:20 &mdash; 14:00</strong></td>
+      <td><strong>Lunch, <span class="room-info">Location: TBA</span></strong></td>
+    </tr>
+    <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
+      <td>14:00 &mdash; 15:00</td>
+      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br> <span class="authors"><strong>TBA</strong>. </span><span class="title"><a href="" target="_blank">TBA</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
+    </tr>
+    <tr class="coffee">
+      <td><strong>15:00 &mdash; 15:30</strong></td>
+      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session header schedule-link" id="session-9" schedule-link-start="2026-08-21T15:30" schedule-link-end="2026-08-21T16:30" schedule-link-text="Session 9">
+      <td><strong>Session 9,<br> 15:30 &mdash; 16:30</strong></td>
+      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
+    <tr class="session">
+      <td>15:30 &mdash; 15:50</td>
+      <td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. <span class="title"><a class="doi" href="" target="_blank">Point Set Embeddability with List Constraints</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session light">
+      <td>15:50 &mdash; 16:10</td>
+      <td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title"><a class="doi" href="" target="_blank">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="session">
+      <td>16:10 &mdash; 16:30</td>
+      <td><span class="authors"><span class="speaker">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span></span>. <span class="title"><a class="doi" href="" target="_blank">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+    </tr>
+    <tr class="special">
+      <td><strong>16:45 &mdash; 17:00</strong></td>
+      <td><strong>Closing Remarks & Award Ceremony, <span class="room-info">Room: TBA</span></strong></td>
+    </tr>
   </tbody>
 </table>
 <script>
