@@ -837,19 +837,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:15 &mdash; 09:33</td>
-      <td><span class="authors">Sergey Pupyrev</span>. <span class="title"><a class="doi" href="" target="_blank">How to Draw a Planar Graph: An Experimental Evaluation</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Sergey Pupyrev</span>. <span class="title">How to Draw a Planar Graph: An Experimental Evaluation</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>09:33 &mdash; 09:52</td>
-      <td><span class="authors">Giordano Andreola, Susanna Caroppo, Giordano Da Lozzo, Marco D'Elia, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani</span>. <span class="title"><a class="doi" href="" target="_blank">Extending Biconnected Straight-Line Planar Drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Giordano Andreola, Susanna Caroppo, Giordano Da Lozzo, Marco D'Elia, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani</span>. <span class="title">Extending Biconnected Straight-Line Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>09:52 &mdash; 10:11</td>
-      <td><span class="authors">Patrizio Angelini, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong and Ignaz Rutter</span>. <span class="title"><a class="doi" href="" target="_blank">Beyond Degree Four: Near-Orthogonal Planar Drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Patrizio Angelini, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong and Ignaz Rutter</span>. <span class="title">Beyond Degree Four: Near-Orthogonal Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>10:11 &mdash; 10:30</td>
-      <td><span class="authors">Vera Chekan, Robert Ganian and Viktoriia Korchemna</span>. <span class="title"><a class="doi" href="" target="_blank">A Fixed-Parameter Algorithm for Extending Upward Planar Drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span><span class="track">[T1]</span></td>
+      <td><span class="authors">Vera Chekan, Robert Ganian and Viktoriia Korchemna</span>. <span class="title">A Fixed-Parameter Algorithm for Extending Upward Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span><span class="track">[T1]</span></td>
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
@@ -861,19 +861,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Markus Wallinger, Oscar Navarro and Stephen Kobourov</span>. <span class="title"><a class="doi" href="" target="_blank">Minimum-Width Drawings of Trees with Sized Vertices</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span><span class="track">[T2]</span></td>
+      <td><span class="authors">Markus Wallinger, Oscar Navarro and Stephen Kobourov</span>. <span class="title">Minimum-Width Drawings of Trees with Sized Vertices</span> <span class="slides-link"><a href="" target="_blank"> </a></span><span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Anna Lubiw and Marcus Schaefer</span>. <span class="title"><a class="doi" href="h" target="_blank">Recognizing Penny and Marble Graphs is Hard for Existential Theory of the Reals</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Anna Lubiw and Marcus Schaefer</span>. <span class="title"><a class="doi" href="h" target="_blank">Recognizing Penny and Marble Graphs is Hard for Existential Theory of the Reals</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
-      <td><span class="authors">Todor Antić, Jiří Fiala, Jelena Glišić, Grzegorz Gutowski, Konstanty Junosza-Szaniawski, Jan Kratochvíl, Giuseppe Liotta, Morteza Saghafian, Maria Saumell, Krisztina Szilágyi and Pavel Valtr</span>. <span class="title"><a class="doi" href="" target="_blank">How Close is a Tree to a Euclidean Minimum Spanning Tree?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Todor Antić, Jiří Fiala, Jelena Glišić, Grzegorz Gutowski, Konstanty Junosza-Szaniawski, Jan Kratochvíl, Giuseppe Liotta, Morteza Saghafian, Maria Saumell, Krisztina Szilágyi and Pavel Valtr</span>. <span class="title">How Close is a Tree to a Euclidean Minimum Spanning Tree?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>12:00 &mdash; 12:20</td>
-      <td><span class="authors">Thomas Depian, Thomas C. Van Dijk and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">Paged Geophylogenies: A Coloring Approach to External Labeling with Tree Constraints</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Thomas Depian, Thomas C. Van Dijk and Martin Nöllenburg</span>. <span class="title">Paged Geophylogenies: A Coloring Approach to External Labeling with Tree Constraints</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="lunch">
       <td>12:20 &mdash; 14:00</td>
@@ -897,15 +897,15 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
-      <td><span class="authors">Stefan Felsner, Jędrzej Hodor, Giacomo Ortali and Alexander Wolff</span>. <span class="title"><a class="doi" href="" target="_blank">Navigating Posets with Few Maps</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Stefan Felsner, Jędrzej Hodor, Giacomo Ortali and Alexander Wolff</span>. <span class="title">Navigating Posets with Few Maps</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors">Marcel Nöhre and Gerd Stumme</span>. <span class="title"><a class="doi" href="" target="_blank">Node Labeling in Line Diagrams of Ordered Sets</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Marcel Nöhre and Gerd Stumme</span>. <span class="title">Node Labeling in Line Diagrams of Ordered Sets</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors">Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. <span class="title"><a class="doi" href="" target="_blank">Stack and Queue Layouts with Defects</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. <span class="title">Stack and Queue Layouts with Defects</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="gdc schedule-link" id="gdc" schedule-link-start="2026-08-19T17:00" schedule-link-end="2026-08-19T18:30" schedule-link-text="GDC Live Challenge">
       <td><strong>17:00 &mdash; 18:30</strong></td>
@@ -935,23 +935,23 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:20</td>
-      <td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. <span class="title"><a class="doi" href="" target="_blank">Monotone Clustered Level Planarity</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. <span class="title">Monotone Clustered Level Planarity</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>09:20 &mdash; 09:40</td>
-      <td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title"><a class="doi" href="" target="_blank">On 2-Layer k-Matching-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title">On 2-Layer k-Matching-Planar Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>09:40 &mdash; 10:00</td>
-      <td><span class="authors">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>10:00 &mdash; 10:15</td>
-      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title"><a class="doi" href="" target="_blank">2-Layer Fan-Planarity in Polynomial Time</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title">2-Layer Fan-Planarity in Polynomial Time</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>10:15 &mdash; 10:30</td>
-      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">On the Complexity of Extending Storylines</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title">On the Complexity of Extending Storylines</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
@@ -963,19 +963,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title"><a class="doi" href="" target="_blank">Clic: Highlighting Clique Motifs in Biofabric Visualizations</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title">Clic: Highlighting Clique Motifs in Biofabric Visualizations</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Michal Katrlík</span>. <span class="title"><a class="doi" href="" target="_blank">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michal Katrlík</span>. <span class="title">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
-      <td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title"><a class="doi" href="" target="_blank">What induces plane structures in complete graph drawings?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title">What induces plane structures in complete graph drawings?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>12:00 &mdash; 12:20</td>
-      <td><span class="authors">Stefan Felsner</span>. <span class="title"><a class="doi" href="" target="_blank">Antipodal Pairs and Crossing Numbers</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Stefan Felsner</span>. <span class="title">Antipodal Pairs and Crossing Numbers</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="lunch">
       <td>12:20 &mdash; 14:00</td>
@@ -995,15 +995,15 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
-      <td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title"><a class="doi" href="" target="_blank">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title"><a class="doi" href="" target="_blank">Does graph structure affect drawing quality?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title">Does graph structure affect drawing quality?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="business-meeting">
       <td><strong>16:30 &mdash; 17:30</strong></td>
@@ -1036,23 +1036,23 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:18</td>
-      <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title"><a class="doi" href="" target="_blank">Opacity-Modulated Edge Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title">Opacity-Modulated Edge Drawing</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>09:18 &mdash; 09:36</td>
-      <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title"><a class="doi" href="" target="_blank">Weighted Book Thickness</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title">Weighted Book Thickness</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>09:36 &mdash; 09:54</td>
-      <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title"><a class="doi" href="" target="_blank">Two Results on Outer-String Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title">Two Results on Outer-String Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>09:54 &mdash; 10:12</td>
-      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title"><a class="doi" href="" target="_blank">Fast UMAP-based Graph Drawing</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>10:12 &mdash; 10:30</td>
-      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title"><a class="doi" href="" target="_blank">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
@@ -1064,19 +1064,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title"><a class="doi" href="" target="_blank">1-Planar Drawings of Products of Cycles</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title">1-Planar Drawings of Products of Cycles</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On the 2-Bend Slope Number of 1-Planar Graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. <span class="title">On the 2-Bend Slope Number of 1-Planar Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
-      <td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. <span class="title"><a class="doi" href="" target="_blank">A first view on the density of 5-planar graphs</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. <span class="title">A first view on the density of 5-planar graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>12:00 &mdash; 12:20</td>
-      <td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title"><a class="doi" href="" target="_blank">On t-colorable k-plane drawings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title">On t-colorable k-plane drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="lunch">
       <td><strong>12:20 &mdash; 14:00</strong></td>
@@ -1084,7 +1084,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info"> </span><br> <span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank">TBA</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
+      <td><strong>Invited Talk</strong>, <span class="room-info"> </span><br> <span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank">TBA</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1096,15 +1096,15 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
-      <td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. <span class="title"><a class="doi" href="" target="_blank">Point Set Embeddability with List Constraints</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. <span class="title">Point Set Embeddability with List Constraints</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title"><a class="doi" href="" target="_blank">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. <span class="title"><a class="doi" href="" target="_blank">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. <span class="title">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="special">
       <td><strong>16:45 &mdash; 17:00</strong></td>
