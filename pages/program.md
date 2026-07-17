@@ -825,30 +825,30 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="registration">
       <td>08:30 &mdash; 09:00</td>
-      <td>Registration, <span class="room-info">TBA</span></td>
+      <td>Registration, <span class="room-info">Room: TBA</span></td>
     </tr>
     <tr class="poster">
-      <td>09:00 &mdash; 09:15</td>
+      <td>09:00 &mdash; 09:10</td>
       <td>Opening</td>
     </tr>
     <tr class="session header schedule-link" id="session-1" schedule-link-start="2026-08-19T09:15" schedule-link-end="2026-08-19T10:30" schedule-link-text="Session 1">
-      <td><strong>Session 1,<br> 09:15 &mdash; 10:30</strong></td>
+      <td><strong>Session 1,<br> 09:10 &mdash; 10:30</strong></td>
       <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
     </tr>
     <tr class="session">
-      <td>09:15 &mdash; 09:33</td>
+      <td>09:10 &mdash; 09:30</td>
       <td><span class="authors">Sergey Pupyrev</span>. <span class="title">How to Draw a Planar Graph: An Experimental Evaluation</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
-      <td>09:33 &mdash; 09:52</td>
+      <td>09:30 &mdash; 09:50</td>
       <td><span class="authors">Giordano Andreola, Susanna Caroppo, Giordano Da Lozzo, Marco D'Elia, Giuseppe Di Battista, Fabrizio Frati, Fabrizio Grosso and Maurizio Patrignani</span>. <span class="title">Extending Biconnected Straight-Line Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
-      <td>09:52 &mdash; 10:11</td>
+      <td>09:50 &mdash; 10:10</td>
       <td><span class="authors">Patrizio Angelini, Sabine Cornelsen, Giordano Da Lozzo, Seok-Hee Hong and Ignaz Rutter</span>. <span class="title">Beyond Degree Four: Near-Orthogonal Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
-      <td>10:11 &mdash; 10:30</td>
+      <td>10:10 &mdash; 10:30</td>
       <td><span class="authors">Vera Chekan, Robert Ganian and Viktoriia Korchemna</span>. <span class="title">A Fixed-Parameter Algorithm for Extending Upward Planar Drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span><span class="track">[T1]</span></td>
     </tr>
     <tr class="coffee">
