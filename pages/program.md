@@ -935,23 +935,23 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:20</td>
-      <td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. <span class="title">Monotone Clustered Level Planarity</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Simon D. Fink, Matthias Pfretzschner, Ignaz Rutter and Marie Diana Sieper</span>. <span class="title">Monotone Clustered Level Planarity</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>09:20 &mdash; 09:40</td>
-      <td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title">On 2-Layer k-Matching-Planar Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Saeed Odak, Jonathan Rollin and Torben Scheele</span>. <span class="title">On 2-Layer k-Matching-Planar Graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>09:40 &mdash; 10:00</td>
-      <td><span class="authors">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>10:00 &mdash; 10:15</td>
-      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title">2-Layer Fan-Planarity in Polynomial Time</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title">2-Layer Fan-Planarity in Polynomial Time</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>10:15 &mdash; 10:30</td>
-      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title">On the Complexity of Extending Storylines</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title">On the Complexity of Extending Storylines</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
@@ -963,19 +963,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title">Clic: Highlighting Clique Motifs in Biofabric Visualizations</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title">Clic: Highlighting Clique Motifs in Biofabric Visualizations</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Michal Katrlík</span>. <span class="title">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michal Katrlík</span>. <span class="title">Tight Leading-Term Bounds for the Z2-Genus of Complete Graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
-      <td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title">What induces plane structures in complete graph drawings?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexandra Weinberger and Ji Zeng</span>. <span class="title">What induces plane structures in complete graph drawings?</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>12:00 &mdash; 12:20</td>
-      <td><span class="authors">Stefan Felsner</span>. <span class="title">Antipodal Pairs and Crossing Numbers</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Stefan Felsner</span>. <span class="title">Antipodal Pairs and Crossing Numbers</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="lunch">
       <td>12:20 &mdash; 14:00</td>
@@ -983,7 +983,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank"> </a> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"></a>]</span>, <br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="title"><br><strong>Chair: TBA</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -991,19 +991,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-6" schedule-link-start="2026-08-20T15:30" schedule-link-end="2026-08-20T16:30" schedule-link-text="Session 6">
       <td><strong>Session 6,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important"><strong>TBA</strong></a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
-      <td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Alessandro Palma, Sara Di Bartolomeo and Marco Angelini</span>. <span class="title">Weaving (Bio)fabric: A Benchmark for Scalability through Progressive Sampling Methods</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Timo Brand, Henry Förster, Stephen Kobourov, Daniel Kohrt, Robin Schukrafft, Markus Wallinger and Johannes Zink</span>. <span class="title">Using Reinforcement Learning to Optimize the Global and Local Crossing Number</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title">Does graph structure affect drawing quality?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Gavin J. Mooney, Michael Wybrow and Helen C. Purchase</span>. <span class="title">Does graph structure affect drawing quality?</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="business-meeting">
       <td><strong>16:30 &mdash; 17:30</strong></td>
@@ -1017,6 +1017,7 @@ function scrollToSection(sectionId) {
 </table>
 
 <hr>
+
 <table id="friday">
   <colgroup>
     <col width="25%" />
