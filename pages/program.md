@@ -78,7 +78,7 @@ thead.day-header {
     color: #2C2C2C !important;
   }
   
-  .room-info {
+  .Location-info {
     font-style: italic;
   }
 
@@ -511,7 +511,7 @@ const timelineData = {
         { start: "11:00", end: "12:20", type: "session", title: "Session 8", location: "", speaker: "Chair: TBA", sponsor: "" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "" },
         { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "", details: "" },
-        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Room: TBA" },
+        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Location: TBA" },
         { start: "15:30", end: "16:30", type: "session", title: "Session 9", location: "", speaker: "Chair: TBA" },
         { start: "16:30", end: "17:00", type: "special", title: "Closing & Awards", location: "" }
       ]
@@ -725,7 +725,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="registration">
       <td>08:30 &mdash; 09:00</td>
-      <td>PhD School Registration, <span class="room-info">Room: TBA</span></td>
+      <td>PhD School Registration, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="phd-school">
       <td>09:00 &mdash; 10:30</td>
@@ -775,7 +775,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="registration">
       <td>08:30 &mdash; 09:00</td>
-      <td>PhD School Registration, <span class="room-info">Room: TBA</span></td>
+      <td>PhD School Registration, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="phd-school">
       <td>09:00 &mdash; 10:30</td>
@@ -803,7 +803,7 @@ function scrollToSection(sectionId) {
     </tr> 
     <tr class="reception">
       <td>18:30 &mdash; 20:30</td>
-      <td>Conference Welcome Reception, <span class="room-info">Location: TBA</span></td>
+      <td>Conference Welcome Reception, <span class="Location-info">Location: TBA</span></td>
     </tr>
   </tbody>      
 </table>
@@ -825,7 +825,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="registration">
       <td>08:30 &mdash; 09:00</td>
-      <td>Registration, <span class="room-info">Room: TBA</span></td>
+      <td>Registration, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="poster">
       <td>09:00 &mdash; 09:10</td>
@@ -833,7 +833,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-1" schedule-link-start="2026-08-19T09:15" schedule-link-end="2026-08-19T10:30" schedule-link-text="Session 1">
       <td><strong>Session 1,<br> 09:10 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:10 &mdash; 09:30</td>
@@ -853,11 +853,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
-      <td>Coffee Break, <span class="room-info">Room: TBA</span></td>
+      <td>Coffee Break, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-2" schedule-link-start="2026-08-19T11:00" schedule-link-end="2026-08-19T12:20" schedule-link-text="Session 2">
       <td><strong>Session 2,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -877,7 +877,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="lunch">
       <td>12:20 &mdash; 14:00</td>
-      <td>Lunch, <span class="room-info">Location: TBA</span></td>
+      <td>Lunch, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="poster">
       <td>14:00 &mdash; 15:00</td>
@@ -889,11 +889,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="coffee">
       <td>15:00 &mdash; 15:30</td>
-      <td>Coffee Break, <span class="room-info">Room: TBA</span></td>
+      <td>Coffee Break, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-3" schedule-link-start="2026-08-19T15:30" schedule-link-end="2026-08-19T16:30" schedule-link-text="Session 3">
       <td><strong>Session 3,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -909,7 +909,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="gdc schedule-link" id="gdc" schedule-link-start="2026-08-19T17:00" schedule-link-end="2026-08-19T18:30" schedule-link-text="GDC Live Challenge">
       <td><strong>17:00 &mdash; 18:30</strong></td>
-      <td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2026/" target="_blank">GDC Live Challenge</a>, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2026/" target="_blank">GDC Live Challenge</a>, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
   </tbody>
 </table>
@@ -931,7 +931,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-4" schedule-link-start="2026-08-20T09:00" schedule-link-end="2026-08-20T10:30" schedule-link-text="Session 4">
       <td><strong>Session 4,<br> 09:00 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:20</td>
@@ -955,11 +955,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
-      <td>Coffee Break, <span class="room-info">Room: TBA</span></td>
+      <td>Coffee Break, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-5" schedule-link-start="2026-08-20T11:00" schedule-link-end="2026-08-20T12:20" schedule-link-text="Session 5">
       <td><strong>Session 5,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Sponsored by <a href="" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Sponsored by <a href="" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -979,19 +979,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="lunch">
       <td>12:20 &mdash; 14:00</td>
-      <td>Lunch, <span class="room-info">Location: TBA</span></td>
+      <td>Lunch, <span class="Location-info">Location: TBA</span></td>
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="title"><br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk</strong>, <span class="Location-info">Location: TBA</span><br><span class="title"><br><strong>Chair: TBA</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
-      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Coffee Break, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-6" schedule-link-start="2026-08-20T15:30" schedule-link-end="2026-08-20T16:30" schedule-link-text="Session 6">
       <td><strong>Session 6,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -1007,11 +1007,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="business-meeting">
       <td><strong>16:30 &mdash; 17:30</strong></td>
-      <td><strong>Business Meeting, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Business Meeting, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="reception">
       <td>17:30 &mdash; 23:00</td>
-      <td>Social Dinner, <span class="room-info"><a href="https://www.niagaraparks.com/visit/culinary/queen-victoria-place-restaurant/" target="_blank">Queen Victoria Place, Niagara Falls</a></span></td>
+      <td>Social Dinner, <span class="Location-info"><a href="https://www.niagaraparks.com/visit/culinary/queen-victoria-place-restaurant/" target="_blank">Queen Victoria Place, Niagara Falls</a></span></td>
     </tr>
   </tbody>
 </table>
@@ -1033,7 +1033,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-7" schedule-link-start="2026-08-21T09:00" schedule-link-end="2026-08-21T10:30" schedule-link-text="Session 7">
       <td><strong>Session 7,<br> 09:00 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:18</td>
@@ -1057,11 +1057,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
-      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Coffee Break, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-8" schedule-link-start="2026-08-21T11:00" schedule-link-end="2026-08-21T12:20" schedule-link-text="Session 8">
       <td><strong>Session 8,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -1081,19 +1081,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="lunch">
       <td><strong>12:20 &mdash; 14:00</strong></td>
-      <td><strong>Lunch, <span class="room-info">Location: TBA</span></strong></td>
+      <td><strong>Lunch, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br> <span class="title"><br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk</strong>, <span class="Location-info">Location: TBA</span><br> <span class="title"><br><strong>Chair: TBA</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
-      <td><strong>Coffee Break, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Coffee Break, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-9" schedule-link-start="2026-08-21T15:30" schedule-link-end="2026-08-21T16:30" schedule-link-text="Session 9">
       <td><strong>Session 9,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Chair: TBA, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -1109,7 +1109,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="special">
       <td><strong>16:45 &mdash; 17:00</strong></td>
-      <td><strong>Closing Remarks & Award Ceremony, <span class="room-info">Room: TBA</span></strong></td>
+      <td><strong>Closing Remarks & Award Ceremony, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
   </tbody>
 </table>
