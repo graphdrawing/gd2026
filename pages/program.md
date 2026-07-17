@@ -865,7 +865,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Anna Lubiw and Marcus Schaefer</span>. <span class="title"><a class="doi" href="h" target="_blank">Recognizing Penny and Marble Graphs is Hard for Existential Theory of the Reals</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Anna Lubiw and Marcus Schaefer</span>. <span class="title">Recognizing Penny and Marble Graphs is Hard for Existential Theory of the Reals</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
