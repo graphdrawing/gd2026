@@ -451,10 +451,10 @@ const timelineData = {
       date: "Aug 17",
       events: [
         { start: "08:30", end: "09:00", type: "logistical", title: "Registration (PhD School)", location: "TBA" },
-        { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "TBA"},
+        { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"},
         //{ start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break" },
         { start: "12:00", end: "14:00", type: "other", title: "Lunch Break" },
-        { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "TBA"}
+        { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"}
         //{ start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "Markus Chimani", location: "TP42, Campus Norrköping", details: "Crossing number: Complexity and Algorithms", link: "../school/#markus-chimani" },
         //{ start: "15:30", end: "16:00", type: "logistical", title: "Coffee Break" }
       ]
@@ -463,10 +463,10 @@ const timelineData = {
       name: "Tuesday",
       date: "Aug 18",
       events: [
-        { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "TBA"},
+        { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"},
         //{ start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break" },
         { start: "12:00", end: "14:00", type: "other", title: "Lunch Break" },
-        { start: "14:00", end: "17:00", type: "phd-school", title: "PhD School", speaker: "TBA"},
+        { start: "14:00", end: "16:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"},
         //{ start: "15:30", end: "16:00", type: "logistical", title: "Coffee Break" },
         { start: "18:30", end: "20:30", type: "logistical-highlight", title: "Conference Welcome Reception", location: "TBA" }
       ]
