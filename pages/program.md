@@ -723,13 +723,13 @@ function scrollToSection(sectionId) {
     <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>PhD School Registration,  <span class="room-info">Room: TBA</span></td></tr>
     </tr>
-    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture by Prof. Myroslav Kryven</td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture by Prof. Dr. Myroslav Kryven</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
-    <tr class="phd-school"><td>11:00 &mdash; 12:30</td><td>Lecture by Prof. Alessandra Tappini</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:30</td><td>Lecture by Prof. Dr. Alessandra Tappini</td></tr>
     <tr ><td>12:30 &mdash; 14:00</td><td>Lunch Break</td></tr>
-    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture by Prof. Reyan Ahmed</td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture by Prof. Dr. Reyan Ahmed</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break</td></tr>
-    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Experiments and Discussion by Prof. Reyan Ahmed</td></tr>
+    <tr class="phd-school"><td>16:00 &mdash; 17:00</td><td>Experiments and Discussion by Prof. Dr. Reyan Ahmed</td></tr>
   </tbody>
 </table>
 <hr>
@@ -741,11 +741,11 @@ function scrollToSection(sectionId) {
      <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>PhD School Registration,  <span class="room-info">Room: TBA</span></td></tr>
     </tr>
-    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture by Prof. Md. Saidur Rahman</td></tr>
+    <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture by Prof. Dr. Md. Saidur Rahman</td></tr>
     <tr class="coffee"><td>10:30 &mdash; 11:00</td><td>Coffee Break</td></tr>
-    <tr class="phd-school"><td>11:00 &mdash; 12:30</td><td>Lecture by Prof. Carola Wenk</td></tr>
+    <tr class="phd-school"><td>11:00 &mdash; 12:30</td><td>Lecture by Prof. Dr. Carola Wenk</td></tr>
     <tr ><td>12:30 &mdash; 14:00</td><td>Lunch Break</td></tr>
-    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture by Prof. Will Evans</td></tr>
+    <tr class="phd-school"><td>14:00 &mdash; 15:30</td><td>Lecture by Prof. Dr. Will Evans</td></tr>
     <tr class="coffee"><td>15:30 &mdash; 16:00</td><td>Coffee Break and Conclusion of PhD School</td></tr> 
         <tr class="reception"><td>18:30 &mdash; 20:30</td><td>Conference Welcome Reception, <span class="room-info"><a href="" target="_blank">Location: TBA</a></span></td></tr>
   </tbody>      
