@@ -947,11 +947,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session light">
       <td>10:00 &mdash; 10:15</td>
-      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title">2-Layer Fan-Planarity in Polynomial Time</span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Yasuaki Kobayashi and Yuto Okada</span>. <span class="title">2-Layer Fan-Planarity in Polynomial Time</span> <span class="track">[T1, short]</span></td>
     </tr>
     <tr class="session">
       <td>10:15 &mdash; 10:30</td>
-      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title">On the Complexity of Extending Storylines</span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Dobler, Siddharth Gupta, Philipp Kindermann, Fabrizio Montecchiani and Martin Nöllenburg</span>. <span class="title">On the Complexity of Extending Storylines</span> <span class="track">[T1, short]</span></td>
     </tr>
     <tr class="coffee">
       <td>10:30 &mdash; 11:00</td>
@@ -1049,11 +1049,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>10:10 &mdash; 10:15</td>
-      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2, short]</span></td>
     </tr>
     <tr class="session light">
       <td>10:15 &mdash; 10:30</td>
-      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="track">[T2, short]</span></td>
     </tr>
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
