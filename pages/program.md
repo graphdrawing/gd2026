@@ -1037,23 +1037,23 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:18</td>
-      <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title">Opacity-Modulated Edge Drawing</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title">Opacity-Modulated Edge Drawing</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>09:18 &mdash; 09:36</td>
-      <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title">Weighted Book Thickness</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title">Weighted Book Thickness</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>09:36 &mdash; 09:54</td>
-      <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title">Two Results on Outer-String Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title">Two Results on Outer-String Graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>09:54 &mdash; 10:12</td>
-      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>10:12 &mdash; 10:30</td>
-      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
@@ -1065,19 +1065,19 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title">1-Planar Drawings of Products of Cycles</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Stefan Felsner, Kolja Knauer, Yasumi Kogo and Bobby Miraftab</span>. <span class="title">1-Planar Drawings of Products of Cycles</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
-      <td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. <span class="title">On the 2-Bend Slope Number of 1-Planar Graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michael A. Bekos, Eleni Katsanou, Philipp Kindermann, Aikaterini Maria Ntasiou, Maria Eleni Pavlidi and Soeren Terziadis</span>. <span class="title">On the 2-Bend Slope Number of 1-Planar Graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>11:40 &mdash; 12:00</td>
-      <td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. <span class="title">A first view on the density of 5-planar graphs</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Aaron Büngener, Jakob Franz, Michael Kaufmann and Maximilian Pfister</span>. <span class="title">A first view on the density of 5-planar graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>12:00 &mdash; 12:20</td>
-      <td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title">On t-colorable k-plane drawings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Miriam Goetze, Michael Kaufmann and Soeren Terziadis</span>. <span class="title">On t-colorable k-plane drawings</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="lunch">
       <td><strong>12:20 &mdash; 14:00</strong></td>
@@ -1085,7 +1085,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info"> </span><br> <span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank">TBA</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
+      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br> <span class="title"><br><strong>Chair: TBA</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1097,15 +1097,15 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
-      <td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. <span class="title">Point Set Embeddability with List Constraints</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Thomas Depian, Joseph Dorfer, Boris Klemz, Matthias Pfretzschner and Lena Schlipf</span>. <span class="title">Point Set Embeddability with List Constraints</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Kelvin Luu and Csaba Tóth</span>. <span class="title">Geometric $(1+\varepsilon)$-Spanners with Few Crossings</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. <span class="title">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. <span class="title">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="special">
       <td><strong>16:45 &mdash; 17:00</strong></td>
@@ -1113,6 +1113,7 @@ function scrollToSection(sectionId) {
     </tr>
   </tbody>
 </table>
+
 <script>
 // Function to scroll to specific sections
 function scrollToSection(sectionId) {
