@@ -981,9 +981,9 @@ function scrollToSection(sectionId) {
       <td>12:20 &mdash; 14:00</td>
       <td>Lunch, <span class="room-info">Location: TBA</span></td>
     </tr>
-    <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk: Hans Bodlaender">
+    <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="authors"><strong>Hans Bodlaender</strong>. </span><span class="title"><a href="" target="_blank">A Sketch of Parameterized Complexity</a> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"></a>]</span>, <br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br><span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank"> </a> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"></a>]</span>, <br><strong>Chair: TBA</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1011,7 +1011,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="reception">
       <td>17:30 &mdash; 23:00</td>
-      <td>Social Dinner, <span class="room-info"><a href="" target="_blank">Location: TBA</a></span></td>
+      <td>Social Dinner, <span class="room-info"><a href="" target="_blank">Queen Victoria Place, Niagara Falls</a></span></td>
     </tr>
   </tbody>
 </table>
@@ -1084,7 +1084,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="room-info">Room: TBA</span><br> <span class="authors"><strong>TBA</strong>. </span><span class="title"><a href="" target="_blank">TBA</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
+      <td><strong>Invited Talk</strong>, <span class="room-info"> </span><br> <span class="authors"><strong> </strong>. </span><span class="title"><a href="" target="_blank">TBA</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="video-link">[<a href="" target="_blank"> </a>]</span>, <br><strong>Chair: TBA</strong></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
