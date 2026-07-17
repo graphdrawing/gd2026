@@ -1036,21 +1036,25 @@ function scrollToSection(sectionId) {
       <td><strong>Chair: TBA, <span class="Location-info">Location: TBA</span></strong></td>
     </tr>
     <tr class="session">
-      <td>09:00 &mdash; 09:18</td>
+      <td>09:00 &mdash; 09:20</td>
       <td><span class="authors">Kazuo Misue and Naoto Kikuta</span>. <span class="title">Opacity-Modulated Edge Drawing</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
-      <td>09:18 &mdash; 09:36</td>
+      <td>09:20 &mdash; 09:40</td>
       <td><span class="authors">Henry Förster, Michael Hoffmann, Stephen Kobourov, Maria Eleni Pavlidi, Alexandra Weinberger and Johannes Zink</span>. <span class="title">Weighted Book Thickness</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
-      <td>09:36 &mdash; 09:54</td>
+      <td>09:40 &mdash; 10:00</td>
       <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title">Two Results on Outer-String Graphs</span> <span class="track">[T1]</span></td>
     </tr>
+    <tr class="session">
+      <td>10:10 &mdash; 10:15</td>
+      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2]</span></td>
+    </tr>
     <tr class="session light">
-      <td>09:54 &mdash; 10:12</td>
+      <td>10:15 &mdash; 10:30</td>
       <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="track">[T2]</span></td>
-    </tr> 
+    </tr>
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
       <td><strong>Coffee Break, <span class="Location-info">Location: TBA</span></strong></td>
