@@ -803,7 +803,7 @@ function scrollToSection(sectionId) {
     </tr> 
     <tr class="reception">
       <td>18:30 &mdash; 20:30</td>
-      <td>Conference Welcome Reception, <span class="room-info"><a href="" target="_blank">Location: TBA</a></span></td>
+      <td>Conference Welcome Reception, <span class="room-info">Location: TBA</span></td>
     </tr>
   </tbody>      
 </table>
@@ -901,11 +901,11 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session light">
       <td>15:50 &mdash; 16:10</td>
-      <td><span class="authors"><span class="speaker">Marcel Nöhre and Gerd Stumme</span></span>. <span class="title"><a class="doi" href="" target="_blank">Node Labeling in Line Diagrams of Ordered Sets</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Marcel Nöhre and Gerd Stumme</span>. <span class="title"><a class="doi" href="" target="_blank">Node Labeling in Line Diagrams of Ordered Sets</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors"><span class="speaker">Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. <span class="title"><a class="doi" href="" target="_blank">Stack and Queue Layouts with Defects</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. <span class="title"><a class="doi" href="" target="_blank">Stack and Queue Layouts with Defects</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="gdc schedule-link" id="gdc" schedule-link-start="2026-08-19T17:00" schedule-link-end="2026-08-19T18:30" schedule-link-text="GDC Live Challenge">
       <td><strong>17:00 &mdash; 18:30</strong></td>
@@ -943,7 +943,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>09:40 &mdash; 10:00</td>
-      <td><span class="authors"><span class="speaker">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span></span>. <span class="title"><a class="doi" href="" target="_blank">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Alexander Firbas, Robert Ganian, Sylvain Meunier and Martin Nöllenburg</span>. <span class="title"><a class="doi" href="" target="_blank">Two-Layer Drawings with a Tree on Top: Vertex Splits and Fixed-Parameter Algorithms</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session light">
       <td>10:00 &mdash; 10:15</td>
@@ -1104,7 +1104,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>16:10 &mdash; 16:30</td>
-      <td><span class="authors"><span class="speaker">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span></span>. <span class="title"><a class="doi" href="" target="_blank">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
+      <td><span class="authors">Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck and Birgit Vogtenhuber</span>. <span class="title"><a class="doi" href="" target="_blank">Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</a></span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="special">
       <td><strong>16:45 &mdash; 17:00</strong></td>
