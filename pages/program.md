@@ -498,8 +498,8 @@ const timelineData = {
         { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "", details: "" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "" },
         { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "", speaker: "Chair: TBA", sponsor: "" },
-        { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Hemerycksalen" },
-        { start: "17:45", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Visualization Center C" }
+        { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Location: TBA" },
+        { start: "17:45", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Queen Victoria Place, Niagara Falls" }
       ]
     },
     {
@@ -720,7 +720,7 @@ function scrollToSection(sectionId) {
     <tr><th colspan=2>Monday, August 17</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Time</strong></td><td><strong>Event</strong></td></tr>
+    <tr><td><strong>Time</strong><td><td><strong>Event</strong></td></tr>
     <tr class="registration"><td>08:30 &mdash; 09:00</td><td>PhD School Registration,  <span class="room-info">Room: TBA</span></td></tr>
     </tr>
     <tr class="phd-school"><td>09:00 &mdash; 10:30</td><td>Lecture by Prof. Dr. Myroslav Kryven</td></tr>
