@@ -1050,11 +1050,7 @@ function scrollToSection(sectionId) {
     <tr class="session light">
       <td>09:54 &mdash; 10:12</td>
       <td><span class="authors">Amyra Meidiana and Seok-Hee Hong</span>. <span class="title">Fast UMAP-based Graph Drawing</span> <span class="track">[T2]</span></td>
-    </tr>
-    <tr class="session">
-      <td>10:12 &mdash; 10:30</td>
-      <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2]</span></td>
-    </tr>
+    </tr> 
     <tr class="coffee">
       <td><strong>10:30 &mdash; 11:00</strong></td>
       <td><strong>Coffee Break, <span class="Location-info">Location: TBA</span></strong></td>
