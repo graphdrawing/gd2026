@@ -476,8 +476,8 @@ const timelineData = {
       date: "Aug 19",
       events: [
         { start: "08:30", end: "09:00", type: "logistical", title: "Registration", location: "" },
-        { start: "09:00", end: "09:15", type: "special", title: "Opening", location: "" },
-        { start: "09:15", end: "10:30", type: "session", title: "Session 1", location: "", speaker: "Chair: TBA" },
+        { start: "09:00", end: "09:10", type: "special", title: "Opening", location: "" },
+        { start: "09:10", end: "10:30", type: "session", title: "Session 1", location: "", speaker: "Chair: TBA" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "" },
         { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "", speaker: "Chair: TBA" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "" },
