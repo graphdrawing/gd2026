@@ -90,7 +90,14 @@ toc: true
 <p> <strong><a href="https://www.ubc.ca/">University of British Columbia</a>,  British Columbia, Canada.</strong> </p>
 </div>
  
+<p> <strong> Title:  </strong> </p>
+<p><a class="doi" href="" target="_blank">Graph-based signatures in topological data analysis</a></p>
+<p> <strong> Abstract: </strong> </p>
+<p> In reflecting on 13 graph drawing projects done across 31 years, I realized I have a fondness for the oddballs - the strangest ones. Analyzing these projects through the lens of my nested model of visualization design sheds some light on why. The nested model splits up visualization design decisions into four levels: domain, abstraction, idiom, and algorithm. There's a lot of solid work to be done at the idiom and algorithm levels, and that's where I started with graph drawing. However, it's at the abstraction level, where the specifics of the data and tasks drive the design, that things get really interesting! </p>
 
+<p> <strong> Biography: </strong> </p>
+<p> Tamara Munzner is a Professor at the University of British Columbia Department of Computer Science, and holds a 2000 PhD from Stanford. She has been papers chair for IEEE VIS, IEEE InfoVis, and EuroVis. She chaired the InfoVis Steering Committee, the VIS Executive Committee, and the reVISe Committee. Her book Visualization Analysis and Design is widely used world-wide, and she is the co-editor of the A K Peters Visualization book series at CRC/Routledge. She has published over 100 papers, received the IEEE VGTC Visualization Technical Achievement Award and multiple Test of Time Awards from InfoVis, is a member of the VIS Academy, and is a Fellow of the IEEE and the Royal Society of Canada.</p>
+<hr>
 
 
 
