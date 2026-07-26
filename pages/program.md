@@ -398,7 +398,7 @@ position: sticky;
   margin: 2px 0;
 }
 
-.event-location {
+.event- {
   font-size: 0.7em;
   opacity: 0.7;
   font-style: italic;
@@ -450,7 +450,7 @@ const timelineData = {
       name: "Monday",
       date: "Aug 17",
       events: [
-        { start: "08:30", end: "09:00", type: "logistical", title: "Registration (PhD School)", location: "TBA" },
+        { start: "08:30", end: "09:00", type: "logistical", title: "Registration (PhD School)", location: "Thistle Complex Hallway" },
         { start: "09:00", end: "12:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"},
         //{ start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break" },
         { start: "12:00", end: "14:00", type: "other", title: "Lunch Break" },
@@ -468,37 +468,37 @@ const timelineData = {
         { start: "12:00", end: "14:00", type: "other", title: "Lunch Break" },
         { start: "14:00", end: "16:00", type: "phd-school", title: "PhD School", speaker: "Lectures and Coffee Break"},
         //{ start: "15:30", end: "16:00", type: "logistical", title: "Coffee Break" },
-        { start: "18:30", end: "20:30", type: "logistical-highlight", title: "Conference Welcome Reception", location: "TBA" }
+        { start: "18:30", end: "20:30", type: "logistical-highlight", title: "Conference Welcome Reception", location: "Residence 8 Dining Hall" }
       ]
     },
     {
       name: "Wednesday",
       date: "Aug 19",
       events: [
-        { start: "08:30", end: "09:00", type: "logistical", title: "Registration", location: "" },
-        { start: "09:00", end: "09:10", type: "special", title: "Opening", location: "" },
-        { start: "09:10", end: "10:30", type: "session", title: "Session 1", location: "", speaker: "Chair: TBA" },
-        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "", speaker: "Chair: TBA" },
-        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "" },
-        { start: "14:00", end: "15:00", type: "special", title: "Posters", location: "" },
-        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 3", location: "", speaker: "Chair: TBA", details: "" },
-        { start: "16:30", end: "18:00", type: "special-highlight", title: "GDC Live Challenge", location: "", link: "https://mozart.diei.unipg.it/gdcontest/2026/" }
+        { start: "08:30", end: "09:00", type: "logistical", title: "Registration", location: "Thistle Complex Hallway" },
+        { start: "09:00", end: "09:10", type: "special", title: "Opening", location: "Thistle 247" },
+        { start: "09:10", end: "10:30", type: "session", title: "Session 1", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
+        { start: "14:00", end: "15:00", type: "special", title: "Posters", location: "Thistle Complex Hallway" },
+        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 3", location: "Thistle 247", speaker: "Chair: TBA", details: "" },
+        { start: "16:30", end: "18:00", type: "special-highlight", title: "GDC Live Challenge", location: "SBH Fishbowl", link: "https://mozart.diei.unipg.it/gdcontest/2026/" }
       ]
     },
     {
       name: "Thursday",
       date: "Aug 20",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 4", location: "", speaker: "Chair: TBA" },
-        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 5", location: "", speaker: "Chair: TBA", sponsor: "" },
-        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "", details: "" },
-        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "", speaker: "Chair: TBA", sponsor: "" },
-        { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Location: TBA" },
+        { start: "09:00", end: "10:30", type: "session", title: "Session 4", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 5", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "Thistle 247", details: "" },
+        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Thistle 247" },
         { start: "17:30", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Queen Victoria Place, Niagara Falls" }
       ]
     },
@@ -506,14 +506,14 @@ const timelineData = {
       name: "Friday",
       date: "Aug 21",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 7", location: "", speaker: "Chair: TBA" },
-        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 8", location: "", speaker: "Chair: TBA", sponsor: "" },
-        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "", details: "" },
-        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Location: TBA" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 9", location: "", speaker: "Chair: TBA" },
-        { start: "16:30", end: "17:00", type: "special", title: "Closing & Awards", location: "" }
+        { start: "09:00", end: "10:30", type: "session", title: "Session 7", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 8", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "Thistle 247", details: "" },
+        { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 9", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "16:30", end: "17:00", type: "special", title: "Closing & Awards", location: "Thistle 247" }
       ]
     }
   ]
