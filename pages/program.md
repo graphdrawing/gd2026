@@ -398,7 +398,7 @@ position: sticky;
   margin: 2px 0;
 }
 
-.event-location {
+.event- {
   font-size: 0.7em;
   opacity: 0.7;
   font-style: italic;
