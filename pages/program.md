@@ -78,7 +78,7 @@ thead.day-header {
     color: #2C2C2C !important;
   }
   
-  .Location-info {
+  .room-info {
     font-style: italic;
   }
 
@@ -145,7 +145,7 @@ thead.day-header {
     list-style-position: inside;
     list-style-type: none;
   }
-  ul.poster-list > li { : inherit !important; }
+  ul.poster-list > li { font-size: inherit !important; }
   span.speaker { text-decoration: underline; }
   
   /* Collapsible session styles - Only show triangles for collapsible rows */
@@ -168,7 +168,7 @@ thead.day-header {
     top: 50%;
     transform: translateY(-50%);
     transition: transform 0.3s ease;
-    : 12px;
+    font-size: 12px;
     color: inherit;
     z-index: 10;
     pointer-events: none;
@@ -191,7 +191,7 @@ thead.day-header {
     /* Target collapsible rows for mobile */
     tr.collapsible td:last-child::after {
       right: 5px;
-      : 10px;
+      font-size: 10px;
     }
   }
   
@@ -224,7 +224,7 @@ position: sticky;
   padding: 4px;
   text-align: center;
   font-weight: bold;
-  : 1.2em;
+  font-size: 1.2em;
   border-bottom: 1px solid #ddd;
   height: 30px;
   min-width: 300px;
@@ -247,14 +247,14 @@ position: sticky;
 @media (max-width: 768px) {
   .time-axis {
     width: 30px;
-    : 0.75em;
+    font-size: 0.75em;
   }
 }
 
 .time-slot {
   text-align: center;
   padding: 4px;
-  : 0.7em;
+  font-size: 0.7em;
   font-weight: bold;
   border-bottom: 1px solid #ddd;
   height: 30px;
@@ -282,7 +282,7 @@ position: sticky;
   padding: 4px;
   text-align: center;
   font-weight: bold;
-  : 0.6em;
+  font-size: 0.6em;
   border-bottom: 1px solid #ddd;
   height: 50px;
   display: flex;
@@ -299,7 +299,7 @@ position: sticky;
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 4px 4px;
-  : 0.7em;
+  font-size: 0.7em;
   color: #333;
   cursor: pointer;
   overflow: hidden;
@@ -398,7 +398,7 @@ position: sticky;
   margin: 2px 0;
 }
 
-.event- {
+.event-location {
   font-size: 0.7em;
   opacity: 0.7;
   font-style: italic;
