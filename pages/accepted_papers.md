@@ -168,7 +168,16 @@ usemathjax: true
 
 ## Posters
 
-- TBA 
+- <div class="poster"><span class="authors"><span>Abu Reyan Ahmed, Cesim Erten, Stephen Kobourov, Jonah Lotz, Jacob Miller and Hamlet Taraz</span>. </span><span class="title">Size Should Not Matter: Evaluating Network Visualizations with Stress (Track 2, poster)</span></div> 
+- <div class="poster"><span class="authors"><span>Michael Bekos, Thomas Depian, Stefan Felsner, Michael Kaufmann, Philipp Kindermann, Fabrizio Montecchiani, Maria Eleni Pavlidi, Alexandra Weinberger, Alexander Wolff and Johannes Zink</span>. </span><span class="title">On the Recognition of Outerplanar Graphs with Queue Number 1 (Track 1, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Anežka Kasalová, Vojtěch Vincíbr, Zuzana Reiffersová and Petr Filip</span>. </span><span class="title">Independence of the Lower Bound for Geometric Triangulation Drawings on the Number of Chains (Track 1, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Stefan Felsner, Carolina Haase, Philipp Kindermann and William Lenhart</span>. </span><span class="title">Circular Outside-Obstacle Representations of 2-trees (Track 1, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Timo Brand, Sebastian Damrich, Stephen Kobourov and Jacob Miller</span>. </span><span class="title">Toroidal Graph Drawing by Multidimensional Scaling (Track 2, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Giordano Andreola, Giordano Da Lozzo and Marco D'Elia</span>. </span><span class="title">Hamiltonian Properties of Cycle-Trees (Track 1, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Thomas C. Van Dijk, Soeren Terziadis and Morris Boers</span>. </span><span class="title">Newey: An Algorithmically-Assisted Editor for High-Quality Fully Labelled Transit Map Layout (Track 2, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf</span>. </span><span class="title">Chunky Chains: Graph Drawing on Narrow Screens (Track 2, poster)</span></div>
+- <div class="poster"><span class="authors"><span>Dante Tostado Cortes and Debajyoti Mondal</span>. </span><span class="title">RACTrix: Interactive Visual Summaries for Exploring Signed Networks (Track 2, poster)</span></div>
+
 	
 
 	
