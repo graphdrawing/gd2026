@@ -91,7 +91,7 @@ toc: true
 </div>
  
 <p> <strong> Title:  </strong> </p>
-<p><a class="doi" href="" target="_blank">Graph-based signatures in topological data analysis</a></p>
+<p><a class="doi" href="" target="_blank">31 Years of Graph Drawing: Analyzing the Oddballs</a></p>
 <p> <strong> Abstract: </strong> </p>
 <p> In reflecting on 13 graph drawing projects done across 31 years, I realized I have a fondness for the oddballs - the strangest ones. Analyzing these projects through the lens of my nested model of visualization design sheds some light on why. The nested model splits up visualization design decisions into four levels: domain, abstraction, idiom, and algorithm. There's a lot of solid work to be done at the idiom and algorithm levels, and that's where I started with graph drawing. However, it's at the abstraction level, where the specifics of the data and tasks drive the design, that things get really interesting! </p>
 
