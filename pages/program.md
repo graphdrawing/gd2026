@@ -495,7 +495,7 @@ const timelineData = {
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
         { start: "11:00", end: "12:20", type: "session", title: "Session 5", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "Thistle 247", details: "" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Erin Chambers", speaker: "Chair: Maarten Löffler", location: "Thistle 247", details: "" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
         { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
         { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Thistle 247" },
@@ -510,7 +510,7 @@ const timelineData = {
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
         { start: "11:00", end: "12:20", type: "session", title: "Session 8", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
-        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk", speaker: "Chair: TBA", location: "Thistle 247", details: "" },
+        { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Tamara Munzner", speaker: "Chair: Silvia Miksch", location: "Thistle 247", details: "" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
         { start: "15:30", end: "16:30", type: "session", title: "Session 9", location: "Thistle 247", speaker: "Chair: TBA" },
         { start: "16:30", end: "17:00", type: "special", title: "Closing & Awards", location: "Thistle 247" }
@@ -983,7 +983,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk by Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a>a</strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1085,7 +1085,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk</strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: TBA</strong></span></td>
+      <td><strong>Invited Talk by Tamara Munzner: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: Silvia Miksch</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
