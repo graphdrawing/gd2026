@@ -983,7 +983,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk by Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a>a</strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
+      <td><strong>Invited Talk by Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1085,7 +1085,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk by Tamara Munzner: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: Silvia Miksch</strong></span></td>
+      <td><strong>Invited Talk by Tamara Munzner: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">31 Years of Graph Drawing: Analyzing the Oddballs</a></strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: Silvia Miksch</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
