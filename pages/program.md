@@ -883,7 +883,7 @@ function scrollToSection(sectionId) {
       <td>14:00 &mdash; 15:00</td>
       <td>
         <ul class="poster-list">
-          <li>Posters: TBA</li>
+          <li>Posters: Thistle Complex Hallway </li>
         </ul>
       </td>
     </tr>
