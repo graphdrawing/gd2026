@@ -67,8 +67,8 @@ The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://site
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"><img src="assets/images/sponsor/yWorks.png" width="290" /></a><br />
-    <a href="https://www.yworks.com/?utm_campaign=gd25&utm_medium=wesite" target="_blank"  style="padding-top: 10px; display: inline-block;"> <strong class="sponsers-text" style="font-size: 1.2em;">yWorks</strong></a> </td>
+    <td style="border: none;"><a href="https://www.yworks.com/?utm_campaign=gd26&utm_medium=website" target="_blank"><img src="assets/images/sponsor/yWorks.png" width="290" /></a><br />
+    <a href="https://www.yworks.com/?utm_campaign=gd26&utm_medium=website" target="_blank"  style="padding-top: 10px; display: inline-block;"> <strong class="sponsers-text" style="font-size: 1.2em;">yWorks</strong></a> </td>
   </tr>
 </table>
 
