@@ -55,7 +55,7 @@ The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://site
     </td>
       <td style="border: none;"></td>
     <td style="border: none;"></td>
-    <td style="border: none;"><a href="https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing" target="_blank"><img src="assets/images/sponsor/tuttelogo.png" width="300" /></a><br />
+    <td style="border: none;"><a href="https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing" target="_blank"><img src="assets/images/sponsor/tuttelogo.png" width="290" /></a><br />
     <a href="https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing" target="_blank" style="padding-top: 10px; display: inline-block;"><strong class="sponsers-text" style="font-size: 1.2em;">Tutte Institute for Mathematics and Computing</strong></a>
     </td>
   </tr>
