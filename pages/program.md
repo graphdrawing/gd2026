@@ -1048,7 +1048,7 @@ function scrollToSection(sectionId) {
       <td><span class="authors">Todor Antić, Vít Jelínek, Jan Kratochvíl and Peter Stumpf</span>. <span class="title">Two Results on Outer-String Graphs</span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="session">
-      <td>10:10 &mdash; 10:15</td>
+      <td>10:00 &mdash; 10:15</td>
       <td><span class="authors">Robert Ganian, Philipp Mauve and Vaishali Surianarayanan</span>. <span class="title">Circle Graph 3-Coloring: Can Simplicity Beat SAT?</span> <span class="track">[T2, short]</span></td>
     </tr>
     <tr class="session light">
