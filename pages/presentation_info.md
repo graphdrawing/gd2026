@@ -1,7 +1,7 @@
 ---
 # permalink: /about/
 layout: single
-# title: "Info for Presenters"
+title: "Info for Presenters"
 header:
     image: /assets/images/teaser/gd2026/homepage-teaser.png
     caption: "Image credit: [**Organizer**](https://brocku.ca/)"
@@ -23,5 +23,5 @@ The presentation time for each short paper is 15 minutes, consisting of 11 minut
 
 ## Information for Poster Presenters 
 
-Authors of accepted posters are requested to bring their posters and display them on Wednesday before the coffee break. Posters should remain on display throughout the conference and be removed by Friday lunchtime. Posters can be up to A0 (portrait) size.
+Authors of accepted posters are requested to bring their posters and display them on Wednesday before the coffee break. Posters should remain on display throughout the conference and be removed by Friday lunchtime. Posters can be up to A0 size.
  
