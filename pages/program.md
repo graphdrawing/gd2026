@@ -955,7 +955,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-5" schedule-link-start="2026-08-20T11:00" schedule-link-end="2026-08-20T12:20" schedule-link-text="Session 5">
       <td><strong>Session 5: COMPLETE GRAPHS & CLIQUES,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Sponsored by <a href="" style="color: white !important">Tom Sawyer</a>, <br>Chair: Jan Kratochvíl, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Sponsored by <a href="https://www.tomsawyer.com/" style="color: white !important">Tom Sawyer</a>, <br>Chair: Jan Kratochvíl, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -979,7 +979,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk by Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
+      <td><strong>Invited Talk by Prof. Dr. Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -987,7 +987,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-6" schedule-link-start="2026-08-20T15:30" schedule-link-end="2026-08-20T16:30" schedule-link-text="Session 6">
       <td><strong>Session 6: BIOFABRICS & DRAWING QUALITY,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">Tutte Institute for Mathematics and Computing (TIMC)</a>, <br>Chair: Alessandra Tappini, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Sponsored by <a href="https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing" target="_blank" style="color: white !important">Tutte Institute for Mathematics and Computing (TIMC)</a>, <br>Chair: Alessandra Tappini, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -1081,7 +1081,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-huamin" schedule-link-start="2026-08-21T14:00" schedule-link-end="2026-08-21T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk by Tamara Munzner: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">31 Years of Graph Drawing: Analyzing the Oddballs</a></strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: Silvia Miksch</strong></span></td>
+      <td><strong>Invited Talk by Prof. Dr. Tamara Munzner: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">31 Years of Graph Drawing: Analyzing the Oddballs</a></strong>, <span class="Location-info">Location: Thistle 247</span><br> <span class="title"><br><strong>Chair: Silvia Miksch</strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
