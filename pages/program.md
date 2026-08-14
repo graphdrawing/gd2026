@@ -773,10 +773,6 @@ function scrollToSection(sectionId) {
       <td><strong>Time</strong></td>
       <td><strong>Event</strong></td>
     </tr>
-    <tr class="registration">
-      <td>08:30 &mdash; 09:00</td>
-      <td>PhD School Registration, <span class="Location-info">Location: Thistle Complex Hallway</span></td>
-    </tr>
     <tr class="phd-school">
       <td>09:00 &mdash; 10:30</td>
       <td>Lecture by Prof. Dr. Md. Saidur Rahman</td>
