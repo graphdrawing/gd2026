@@ -53,13 +53,18 @@ Cross the Peace bridge and then take the Queen Elizabeth Way (QEW) towards Toron
 
 #### Park at Brock Campus
 
-Upon arrival to campus choose the Glenridge entrance (it has a roundabout just after you turn in) for standard check-ins. Conferences may have special check-in instructions, please consult with your group organizer. Follow the signs that say “Accommodation Check-In”. While you check-in, you may park outside the front of the Conference Centre. After checking in place the parking pass provided on your dash and park in your assigned lot.
-
-Please park in Zone 1 – labelled as FREE PARKING on the map below.
+Day guests must park in Lot 1. There is signage on campus identifying the lot. For permit, follow the instructions sent by email. Overnight guests staying in Residence 8 must park in Lot 4, which is the lot closest to the residence building. 
 
 You may also wish to use our [Interactive Campus Map](https://brocku.ca/blogs/campus-map/).
 
-![Campus map of Brock University](https://brocku.ca/mathematics-science/wp-content/uploads/sites/26/Brock-Campus-Map-CCCG.jpg?x47526)
+<div class="header" id="campus_map">
+<figure >
+  <img src="../../assets/images/venue/Brock-University-Campus-2026.jpg">
+  <!-- <footer style="font-size: 12px"></footer> -->
+  <!-- <figcaption>Campus map of Brock University</figcaption> -->
+</figure>
+</div>
+
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1C404qktis8Nmouynhtiq_iD0OB_6Ol8&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
