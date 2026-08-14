@@ -477,13 +477,13 @@ const timelineData = {
       events: [
         { start: "08:30", end: "09:00", type: "logistical", title: "Registration", location: "Thistle Complex Hallway" },
         { start: "09:00", end: "09:10", type: "special", title: "Opening", location: "Thistle 247" },
-        { start: "09:10", end: "10:30", type: "session", title: "Session 1", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "09:10", end: "10:30", type: "session", title: "Session 1: PLANAR DRAWINGS", location: "Thistle 247", speaker: "Chair: Markus Wallinger" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 2", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 2: TREES", location: "Thistle 247", speaker: "Chair: Fabrizio Montecchiani " },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
         { start: "14:00", end: "15:00", type: "special", title: "Posters", location: "Thistle Complex Hallway" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 3", location: "Thistle 247", speaker: "Chair: TBA", details: "" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 3: ORDERED SETS", location: "Thistle 247", speaker: "Chair: Stephane Durocher", details: "" },
         { start: "16:30", end: "18:00", type: "special-highlight", title: "GDC Live Challenge", location: "SBH 218", link: "https://mozart.diei.unipg.it/gdcontest/2026/" }
       ]
     },
@@ -491,13 +491,13 @@ const timelineData = {
       name: "Thursday",
       date: "Aug 20",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 4", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "09:00", end: "10:30", type: "session", title: "Session 4: LAYERED DRAWINGS", location: "Thistle 247", speaker: "Chair: Alexander Wolff" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 5", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 5: COMPLETE GRAPHS & CLIQUES", location: "Thistle 247", speaker: "Chair: Jan Kratochvíl", sponsor: "" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
         { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Erin Chambers", speaker: "Chair: Maarten Löffler", location: "Thistle 247", details: "" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 6", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 6: BIOFABRICS & DRAWING QUALITY", location: "Thistle 247", speaker: "Chair: Alessandra Tappini", sponsor: "" },
         { start: "16:30", end: "17:30", type: "special-highlight", title: "Business Meeting", location: "Thistle 247" },
         { start: "17:30", end: "23:00", type: "logistical-highlight", title: "Social Dinner", location: "Queen Victoria Place, Niagara Falls" }
       ]
@@ -506,13 +506,13 @@ const timelineData = {
       name: "Friday",
       date: "Aug 21",
       events: [
-        { start: "09:00", end: "10:30", type: "session", title: "Session 7", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "09:00", end: "10:30", type: "session", title: "Session 7: EDGE CROSSING & BEYOND", location: "Thistle 247", speaker: "Chair: Martin Nöllenburg" },
         { start: "10:30", end: "11:00", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "11:00", end: "12:20", type: "session", title: "Session 8", location: "Thistle 247", speaker: "Chair: TBA", sponsor: "" },
+        { start: "11:00", end: "12:20", type: "session", title: "Session 8: K-PLANARITY", location: "Thistle 247", speaker: "Chair: Alexandra Weinberger", sponsor: "" },
         { start: "12:20", end: "14:00", type: "logistical", title: "Lunch", location: "Decew Dining Hall" },
         { start: "14:00", end: "15:00", type: "invited", title: "Invited Talk by Tamara Munzner", speaker: "Chair: Silvia Miksch", location: "Thistle 247", details: "" },
         { start: "15:00", end: "15:30", type: "logistical", title: "Coffee Break", location: "Thistle Complex Hallway" },
-        { start: "15:30", end: "16:30", type: "session", title: "Session 9", location: "Thistle 247", speaker: "Chair: TBA" },
+        { start: "15:30", end: "16:30", type: "session", title: "Session 9: POINT SETS", location: "Thistle 247", speaker: "Chair: Soeren Terziadis" },
         { start: "16:30", end: "17:00", type: "special", title: "Closing & Awards", location: "Thistle 247" }
       ]
     }
@@ -832,8 +832,8 @@ function scrollToSection(sectionId) {
       <td>Opening</td>
     </tr>
     <tr class="session header schedule-link" id="session-1" schedule-link-start="2026-08-19T09:15" schedule-link-end="2026-08-19T10:30" schedule-link-text="Session 1">
-      <td><strong>Session 1,<br> 09:10 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 1: PLANAR DRAWINGS,<br> 09:10 &mdash; 10:30</strong></td>
+      <td><strong>Chair: Markus Wallinger, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:10 &mdash; 09:30</td>
@@ -856,8 +856,8 @@ function scrollToSection(sectionId) {
       <td>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-2" schedule-link-start="2026-08-19T11:00" schedule-link-end="2026-08-19T12:20" schedule-link-text="Session 2">
-      <td><strong>Session 2,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 2: TREES,<br> 11:00 &mdash; 12:20</strong></td>
+      <td><strong>Chair: Fabrizio Montecchiani, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -892,8 +892,8 @@ function scrollToSection(sectionId) {
       <td>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-3" schedule-link-start="2026-08-19T15:30" schedule-link-end="2026-08-19T16:30" schedule-link-text="Session 3">
-      <td><strong>Session 3,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 3: ORDERED SETS,<br> 15:30 &mdash; 16:30</strong></td>
+      <td><strong>Chair: Stephane Durocher, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -930,8 +930,8 @@ function scrollToSection(sectionId) {
       <td><strong>Event</strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-4" schedule-link-start="2026-08-20T09:00" schedule-link-end="2026-08-20T10:30" schedule-link-text="Session 4">
-      <td><strong>Session 4,<br> 09:00 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 4: LAYERED DRAWINGS,<br> 09:00 &mdash; 10:30</strong></td>
+      <td><strong>Chair: Alexander Wolff, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:20</td>
@@ -958,8 +958,8 @@ function scrollToSection(sectionId) {
       <td>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></td>
     </tr>
     <tr class="session header schedule-link" id="session-5" schedule-link-start="2026-08-20T11:00" schedule-link-end="2026-08-20T12:20" schedule-link-text="Session 5">
-      <td><strong>Session 5,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Sponsored by <a href="" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 5: COMPLETE GRAPHS & CLIQUES,<br> 11:00 &mdash; 12:20</strong></td>
+      <td><strong>Sponsored by <a href="" style="color: white !important">Tom Sawyer</a>, <br>Chair: Jan Kratochvíl, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -990,8 +990,8 @@ function scrollToSection(sectionId) {
       <td><strong>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-6" schedule-link-start="2026-08-20T15:30" schedule-link-end="2026-08-20T16:30" schedule-link-text="Session 6">
-      <td><strong>Session 6,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">TBA</a>, <br>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 6: BIOFABRICS & DRAWING QUALITY,<br> 15:30 &mdash; 16:30</strong></td>
+      <td><strong>Sponsored by <a href="" target="_blank" style="color: white !important">Tutte Institute for Mathematics and Computing (TIMC)</a>, <br>Chair: Alessandra Tappini, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
@@ -1032,8 +1032,8 @@ function scrollToSection(sectionId) {
       <td><strong>Event</strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-7" schedule-link-start="2026-08-21T09:00" schedule-link-end="2026-08-21T10:30" schedule-link-text="Session 7">
-      <td><strong>Session 7,<br> 09:00 &mdash; 10:30</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 7: EDGE CROSSING & BEYOND,<br> 09:00 &mdash; 10:30</strong></td>
+      <td><strong>Chair: Martin Nöllenburg, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>09:00 &mdash; 09:20</td>
@@ -1060,8 +1060,8 @@ function scrollToSection(sectionId) {
       <td><strong>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-8" schedule-link-start="2026-08-21T11:00" schedule-link-end="2026-08-21T12:20" schedule-link-text="Session 8">
-      <td><strong>Session 8,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 8: K-PLANARITY,<br> 11:00 &mdash; 12:20</strong></td>
+      <td><strong>Chair: Alexandra Weinberger , <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
@@ -1092,8 +1092,8 @@ function scrollToSection(sectionId) {
       <td><strong>Coffee Break, <span class="Location-info">Location: Thistle Complex Hallway</span></strong></td>
     </tr>
     <tr class="session header schedule-link" id="session-9" schedule-link-start="2026-08-21T15:30" schedule-link-end="2026-08-21T16:30" schedule-link-text="Session 9">
-      <td><strong>Session 9,<br> 15:30 &mdash; 16:30</strong></td>
-      <td><strong>Chair: TBA, <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Session 9: POINT SETS,<br> 15:30 &mdash; 16:30</strong></td>
+      <td><strong>Chair: Soeren Terziadis, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>15:30 &mdash; 15:50</td>
