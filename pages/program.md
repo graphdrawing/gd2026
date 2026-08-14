@@ -875,11 +875,23 @@ function scrollToSection(sectionId) {
       <td>12:20 &mdash; 14:00</td>
       <td>Lunch, <span class="Location-info">Location: Decew Dining Hall</span></td>
     </tr>
+    <tr class="session header schedule-link">
+      <td>14:00 &mdash; 15:00</td>
+      <td>Posters, <span class="Location-info">Location: Thistle Complex Hallway</span></td>
+    </tr>    
     <tr class="poster">
       <td>14:00 &mdash; 15:00</td>
       <td>
-        <ul class="poster-list">
-          <li>Posters: Thistle Complex Hallway </li>
+        <ul class="poster-list"> 
+          <li>Abu Reyan Ahmed, Cesim Erten, Stephen Kobourov, Jonah Lotz, Jacob Miller and Hamlet Taraz. Size Should Not Matter: Evaluating Network Visualizations with Stress (Track 2, poster)
+          <li>Michael Bekos, Thomas Depian, Stefan Felsner, Michael Kaufmann, Philipp Kindermann, Fabrizio Montecchiani, Maria Eleni Pavlidi, Alexandra Weinberger, Alexander Wolff and Johannes Zink. On the Recognition of Outerplanar Graphs with Queue Number 1 (Track 1, poster)
+          <li>Anežka Kasalová, Vojtěch Vincíbr, Zuzana Reiffersová and Petr Filip. Independence of the Lower Bound for Geometric Triangulation Drawings on the Number of Chains (Track 1, poster)
+          <li>Stefan Felsner, Carolina Haase, Philipp Kindermann and William Lenhart. Circular Outside-Obstacle Representations of 2-trees (Track 1, poster)
+          <li>Timo Brand, Sebastian Damrich, Stephen Kobourov and Jacob Miller. Toroidal Graph Drawing by Multidimensional Scaling (Track 2, poster)
+          <li>Giordano Andreola, Giordano Da Lozzo and Marco D'Elia. Hamiltonian Properties of Cycle-Trees (Track 1, poster)
+          <li>Thomas C. Van Dijk, Soeren Terziadis and Morris Boers. Newey: An Algorithmically-Assisted Editor for High-Quality Fully Labelled Transit Map Layout (Track 2, poster)
+          <li>Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf. Chunky Chains: Graph Drawing on Narrow Screens (Track 2, poster)
+          <li>Dante Tostado Cortes and Debajyoti Mondal. RACTrix: Interactive Visual Summaries for Exploring Signed Networks (Track 2, poster)
         </ul>
       </td>
     </tr>
@@ -959,7 +971,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
-      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title">Clic: Highlighting Clique Motifs in Biofabric Visualizations</span> <span class="track">[T2]</span></td>
+      <td><span class="authors">Sara Di Bartolomeo, Fabrizio Montecchiani and Andrea Tomassoni</span>. <span class="title">CLIC: Highlighting Clique Motifs in Biofabric Visualizations</span> <span class="track">[T2]</span></td>
     </tr>
     <tr class="session light">
       <td>11:20 &mdash; 11:40</td>
@@ -979,7 +991,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="invited-talk schedule-link" id="invited-talk-Hans-Bodlaender" schedule-link-start="2026-08-20T14:00" schedule-link-end="2026-08-20T15:00" schedule-link-text="Invited Talk">
       <td>14:00 &mdash; 15:00</td>
-      <td><strong>Invited Talk by Prof. Dr. Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based signatures in topological data analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
+      <td><strong>Invited Talk by Prof. Dr. Erin Chambers: <a href="https://graphdrawing.github.io/gd2026/pages/speaker/">Graph-based Signatures in Topological Data Analysis</a></strong>, <span class="Location-info">Location: Thistle 247</span><br><span class="title"><br><strong>Chair: Maarten Löffler </strong></span></td>
     </tr>
     <tr class="coffee">
       <td><strong>15:00 &mdash; 15:30</strong></td>
@@ -1057,7 +1069,7 @@ function scrollToSection(sectionId) {
     </tr>
     <tr class="session header schedule-link" id="session-8" schedule-link-start="2026-08-21T11:00" schedule-link-end="2026-08-21T12:20" schedule-link-text="Session 8">
       <td><strong>Session 8: K-PLANARITY,<br> 11:00 &mdash; 12:20</strong></td>
-      <td><strong>Chair: Alexandra Weinberger , <span class="Location-info">Location: Thistle 247</span></strong></td>
+      <td><strong>Chair: Alexandra Weinberger, <span class="Location-info">Location: Thistle 247</span></strong></td>
     </tr>
     <tr class="session">
       <td>11:00 &mdash; 11:20</td>
