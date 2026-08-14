@@ -35,6 +35,15 @@ We are pleased to welcome **Dr. Sara Di Bartolomeo**, **Prof. Dr. Markus Chimani
 
 [22.05.2026] The LaTeX class file has been updated in the [Call for Papers](../cfp/). Please download the latest version [gd-lipics-v2.cls](../../assets/template/gd-lipics-v2.cls) for your submission.
 -->
+[14.08.2026] The [Program](../program/) page has been updated with the **program** for the symposium. 
+
+[24.07.2026] The list of accepted posters is now available on the [Accepted Papers](../accepted_papers/) page.
+
+[28.06.2026] **Travel and Accomodation** information are now available! Please visit the [Travel & Accommodation page](../travel_accommodation/) for details on how to book with special rates.
+
+[26.06.2026] The list of accepted papers is now available on the [Accepted Papers](../accepted_papers/) page.
+
+[21.06.2026] The registration fees and **links to the registration forms** are now announced on the [Registration](../registration/) page!  
 
 [21.04.2026] We are pleased to welcome **Prof. Dr. Reyan Ahmed**, **Prof. Dr. Will Evans**, **Prof. Dr. Myroslav Kryven**, **Prof. Dr. Md. Saidur Rahman**,  **Prof. Dr. Alessandra Tappini**, and **Prof. Dr. Carola Wenk** as our lecturers for the GD2026 PhD School.  
 
