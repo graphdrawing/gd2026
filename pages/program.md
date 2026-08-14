@@ -883,15 +883,15 @@ function scrollToSection(sectionId) {
       <td>14:00 &mdash; 15:00</td>
       <td>
         <ul class="poster-list"> 
-          <li>Abu Reyan Ahmed, Cesim Erten, Stephen Kobourov, Jonah Lotz, Jacob Miller and Hamlet Taraz. Size Should Not Matter: Evaluating Network Visualizations with Stress (Track 2, poster)
-          <li>Michael Bekos, Thomas Depian, Stefan Felsner, Michael Kaufmann, Philipp Kindermann, Fabrizio Montecchiani, Maria Eleni Pavlidi, Alexandra Weinberger, Alexander Wolff and Johannes Zink. On the Recognition of Outerplanar Graphs with Queue Number 1 (Track 1, poster)
-          <li>Anežka Kasalová, Vojtěch Vincíbr, Zuzana Reiffersová and Petr Filip. Independence of the Lower Bound for Geometric Triangulation Drawings on the Number of Chains (Track 1, poster)
-          <li>Stefan Felsner, Carolina Haase, Philipp Kindermann and William Lenhart. Circular Outside-Obstacle Representations of 2-trees (Track 1, poster)
-          <li>Timo Brand, Sebastian Damrich, Stephen Kobourov and Jacob Miller. Toroidal Graph Drawing by Multidimensional Scaling (Track 2, poster)
-          <li>Giordano Andreola, Giordano Da Lozzo and Marco D'Elia. Hamiltonian Properties of Cycle-Trees (Track 1, poster)
-          <li>Thomas C. Van Dijk, Soeren Terziadis and Morris Boers. Newey: An Algorithmically-Assisted Editor for High-Quality Fully Labelled Transit Map Layout (Track 2, poster)
-          <li>Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf. Chunky Chains: Graph Drawing on Narrow Screens (Track 2, poster)
-          <li>Dante Tostado Cortes and Debajyoti Mondal. RACTrix: Interactive Visual Summaries for Exploring Signed Networks (Track 2, poster)
+          <li>Abu Reyan Ahmed, Cesim Erten, Stephen Kobourov, Jonah Lotz, Jacob Miller and Hamlet Taraz. Size Should Not Matter: Evaluating Network Visualizations with Stress (Track 2, poster)</li>
+          <li>Michael Bekos, Thomas Depian, Stefan Felsner, Michael Kaufmann, Philipp Kindermann, Fabrizio Montecchiani, Maria Eleni Pavlidi, Alexandra Weinberger, Alexander Wolff and Johannes Zink. On the Recognition of Outerplanar Graphs with Queue Number 1 (Track 1, poster)</li>
+          <li>Anežka Kasalová, Vojtěch Vincíbr, Zuzana Reiffersová and Petr Filip. Independence of the Lower Bound for Geometric Triangulation Drawings on the Number of Chains (Track 1, poster)</li>
+          <li>Stefan Felsner, Carolina Haase, Philipp Kindermann and William Lenhart. Circular Outside-Obstacle Representations of 2-trees (Track 1, poster)</li>
+          <li>Timo Brand, Sebastian Damrich, Stephen Kobourov and Jacob Miller. Toroidal Graph Drawing by Multidimensional Scaling (Track 2, poster)</li>
+          <li>Giordano Andreola, Giordano Da Lozzo and Marco D'Elia. Hamiltonian Properties of Cycle-Trees (Track 1, poster)</li>
+          <li>Thomas C. Van Dijk, Soeren Terziadis and Morris Boers. Newey: An Algorithmically-Assisted Editor for High-Quality Fully Labelled Transit Map Layout (Track 2, poster)</li>
+          <li>Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf. Chunky Chains: Graph Drawing on Narrow Screens (Track 2, poster)</li>
+          <li>Dante Tostado Cortes and Debajyoti Mondal. RACTrix: Interactive Visual Summaries for Exploring Signed Networks (Track 2, poster)</li>
         </ul>
       </td>
     </tr>
