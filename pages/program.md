@@ -916,7 +916,7 @@ function scrollToSection(sectionId) {
       <td><span class="authors">Michael A. Bekos, Carla Binucci, Emilio Di Giacomo, Walter Didimo, Luca Grilli, Maria Eleni Pavlidi, Alessandra Tappini and Alexandra Weinberger</span>. <span class="title">Stack and Queue Layouts with Defects</span> <span class="slides-link"><a href="" target="_blank"> </a></span> <span class="track">[T1]</span></td>
     </tr>
     <tr class="gdc schedule-link" id="gdc" schedule-link-start="2026-08-19T16:30" schedule-link-end="2026-08-19T18:00" schedule-link-text="GDC Live Challenge">
-      <td><strong>17:00 &mdash; 18:30</strong></td>
+      <td><strong>16:30 &mdash; 18:00</strong></td>
       <td><strong><a href="https://mozart.diei.unipg.it/gdcontest/2026/" target="_blank">GDC Live Challenge</a>, <span class="Location-info">Location: SBH 218</span></strong></td>
     </tr>
   </tbody>
