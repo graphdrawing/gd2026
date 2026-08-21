@@ -24,8 +24,7 @@ toc: true
 
 
 -   Marco Angelini, Sapienza University of Rome 
--   Jürgen Bernard,	University of Zurich 
--   Therese Biedl,	University of Waterloo 
+-   Jürgen Bernard,	University of Zurich  
 -   Prosenjit Bose,	Carleton University	 
 -   Nadia Boukhelifa, INRAE			 
 -   Paolo Buono, University of Bari Aldo Moro		 
