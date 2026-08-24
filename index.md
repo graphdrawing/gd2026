@@ -12,6 +12,7 @@ header:
 
 ## August 17-21, 2026 · Brock University, St. Catharines, Ontario, Canada
 
+<td style="border: none;"><img src="assets/images/venue/group_photo_gd26.JPG" width="1000"></td>
  
 ## About Graph Drawing 2026
 
@@ -39,7 +40,7 @@ The symposium on Graph Drawing and Network Visualization has been the main annua
  
 ## Conferences Nearby in Time and Location
 
-The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://sites.google.com/view/cccg-2026/home)) will be held at Lakehead University’s Orillia Campus in Orillia, Ontario, from August 12 to 14, 2026.
+The 38th Canadian Conference on Computational Geometry ([CCCG 2026](https://sites.google.com/view/cccg-2026/home)) was held at Lakehead University’s Orillia Campus in Orillia, Ontario, from August 12 to 14, 2026.
 
 ## Sponsors
 
