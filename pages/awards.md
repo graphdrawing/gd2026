@@ -50,26 +50,42 @@ for Existential Theory of the Reals</strong>.</p>
 
 ## Best Poster Award
 <div class="awardee">
-<p><strong> 
+<p><strong> TBA
 </strong></p>
 <p>for their poster</p>
-<p><strong>
+<p><strong> TBA
 </strong>.</p>
 </div>
 
+## Best Poster Award (runner-up)
+<div class="awardee">
+<p><strong> TBA
+</strong></p>
+<p>for their poster</p>
+<p><strong> TBA
+</strong>.</p>
+</div>
 <!--
 <img src="{{ site.baseurl }}/assets/images/event/gd2026-best-poster-award.jpg" alt="Best Poster" class="award-image">
 --!>
 
 ## Best Presentation Award
 <div class="awardee">
-<p><strong> 
+<p><strong> TBA
 </strong></p>
 <p>for presenting the paper</p>
-<p><strong>
+<p><strong> TBA
 <strong>.</p>
 </div>
 
+## Best Presentation Award (runner-up)
+<div class="awardee">
+<p><strong> TBA
+</strong></p>
+<p>for presenting the paper</p>
+<p><strong> TBA
+<strong>.</p>
+</div>
 <!--
 <img src="{{ site.baseurl }}/assets/images/event/gd2026-best-presentation-award.jpg" alt="Best Presentation" class="award-image">
 --!>
