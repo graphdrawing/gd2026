@@ -8,8 +8,8 @@ main:
      url: /pages/speaker
    - title: "Info for Presenters"
      url: /pages/presentation_info     
-   #- title: "Awards"
-   # url: /pages/awards
+   - title: "Awards"
+     url: /pages/awards
    - title: "PhD School"
      url: /pages/school
    - title: "Contest &nbsp;<i class='fas fa-external-link-alt fa-sm'></i>"
