@@ -69,7 +69,7 @@ for Existential Theory of the Reals</strong>.</p>
 </strong></p>
 <p>for presenting the paper</p>
 <p><strong> TBA
-<strong>.</p>
+</strong>.</p>
 </div>
 
 ## Best Presentation Award (runner-up)
@@ -78,6 +78,6 @@ for Existential Theory of the Reals</strong>.</p>
 </strong></p>
 <p>for presenting the paper</p>
 <p><strong> TBA
-<strong>.</p>
+</strong>.</p>
 </div>
  
