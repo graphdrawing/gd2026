@@ -32,9 +32,7 @@ Furthermore, the GD participants can also vote for the best poster and the best 
 for Existential Theory of the Reals</strong>.</p>
 </div>
 
-<!--
-<img src="{{ site.baseurl }}/assets/images/event/gd2026-best-paper-award-track-1.jpg" alt="Best Paper Track 1" class="award-image">
---!>
+ 
 
 ## Best Paper Track 2
 
@@ -44,9 +42,7 @@ for Existential Theory of the Reals</strong>.</p>
 <p><strong>Does graph structure affect drawing quality?</strong>.</p>
 </div>
 
-<!--
-<img src="{{ site.baseurl }}/assets/images/event/gd2026-best-paper-award-track-2.jpg" alt="Best Paper Track 1" class="award-image">
---!>
+ 
 
 ## Best Poster Award
 <div class="awardee">
@@ -65,9 +61,7 @@ for Existential Theory of the Reals</strong>.</p>
 <p><strong> TBA
 </strong>.</p>
 </div>
-<!--
-<img src="{{ site.baseurl }}/assets/images/event/gd2026-best-poster-award.jpg" alt="Best Poster" class="award-image">
---!>
+ 
 
 ## Best Presentation Award
 <div class="awardee">
@@ -86,6 +80,4 @@ for Existential Theory of the Reals</strong>.</p>
 <p><strong> TBA
 <strong>.</p>
 </div>
-<!--
-<img src="{{ site.baseurl }}/assets/images/event/gd2026-best-presentation-award.jpg" alt="Best Presentation" class="award-image">
---!>
+ 
