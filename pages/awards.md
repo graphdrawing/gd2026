@@ -46,11 +46,9 @@ for Existential Theory of the Reals</strong>.</p>
 
 ## Best Poster Award
 <div class="awardee">
-<p><strong> Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf  
-</strong></p>
+<p><strong> Tim Hegemann, Dominik Jilg, Marie Diana Sieper and Samuel Wolf</strong></p>
 <p>for their poster</p>
-<p><strong> Chunky Chains: Graph Drawing on Narrow Screens
-</strong>.</p>
+<p><strong> Chunky Chains: Graph Drawing on Narrow Screens</strong>.</p>
 </div>
 
 ## Best Poster Award (runner-up)
@@ -58,26 +56,23 @@ for Existential Theory of the Reals</strong>.</p>
 <p><strong> Michael Bekos, Thomas Depian, Stefan Felsner, Michael Kaufmann, Philipp Kindermann, Fabrizio Montecchiani, Maria Eleni Pavlidi, Alexandra Weinberger, Alexander Wolff and Johannes Zink  
 </strong></p>
 <p>for their poster</p>
-<p><strong> On the Recognition of Outerplanar Graphs with Queue Number
-</strong>.</p>
+<p><strong> On the Recognition of Outerplanar Graphs with Queue Number 1</strong>.</p>
 </div>
  
 
 ## Best Presentation Award
 <div class="awardee">
-<p><strong>  Oswin Aichholzer, Joseph Dorfer, Peter Kramer, Christian Rieck, Birgit Vogtenhuber
+<p><strong>  Joseph Dorfer 
 </strong></p>
 <p>for presenting the paper</p> 
-<p><strong> Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees
-</strong>.</p>
+<p><strong> Structural Properties of Shortest Flip Sequences Between Plane Spanning Trees</strong>.</p>
 </div>
 
 ## Best Presentation Award (runner-up)
 <div class="awardee">
-<p><strong> Robert Ganian, Philipp Mauve, Vaishali Surianarayanan
+<p><strong>  Philipp Mauve 
 </strong></p>
 <p>for presenting the paper</p>
-<p><strong> Circle Graph 3-Coloring: Can Simplicity Beat SAT?
-</strong>.</p>
+<p><strong> Circle Graph 3-Coloring: Can Simplicity Beat SAT?</strong>.</p>
 </div>
  
